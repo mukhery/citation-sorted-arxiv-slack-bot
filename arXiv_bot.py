@@ -7,11 +7,12 @@ Created on Thu Jun  6 18:26:45 2019
 
 _SSLVERIFYCRT = True
 
-import os,requests,pandas,json,feedparser
+import os,requests,pandas,feedparser
 import scholarly
 import numpy as np
 import time
 import datetime as dt
+from apscheduler.schedulers.blocking import BlockingScheduler
 
 def getAuthorCitations(author):
 #    print(author)
@@ -108,23 +109,6 @@ def search(posted_ids,Texts):
 
         return posted_ids, Texts
 
-def post(Texts,Web_hook_url):
-    post_text = ''; counter = 1
-    for val in Texts:
-        # only use title and url information
-        title = val.split('\n')[0][7:-1] # remove first 6 letters (title:*) and last letter (*)
-        url = 'http://arxiv.org/abs/' + val.split('http://arxiv.org/abs/')[-1].split('\n')[0]
-        post_text += str(counter) + '. ' + title + ' - ' + url + '\n'
-        counter += 1
-    post = {'text':post_text,
-            'username':u'Bot',
-            'icon_emoji':u':thinking_face:',
-            'unfurl_links':False,
-            'link_names':1,
-            'channel': '#misc-news-arxiv',}
-    data = json.dumps(post).encode("utf-8")
-    requests.post(Web_hook_url, data = data,verify=_SSLVERIFYCRT)
-
 def makeMarkdown(posted_ids):
     if len(posted_ids) == 0: return 0
 
@@ -178,9 +162,8 @@ def makeMarkdown(posted_ids):
 
     with open('README.md', mode='w', encoding="utf-8") as md_file: md_file.write(markdown)
 
-
-if __name__== '__main__':
-    Web_hook_url = "Web hook url" # provide an appropriate web hook
+def run():
+    print('{} - Starting run...'.format(dt.datetime.now().isoformat()))
     posted_ids_file = './posted_ids.csv'
     if os.path.exists(posted_ids_file):
         posted_ids = pandas.read_csv(posted_ids_file)
@@ -189,21 +172,27 @@ if __name__== '__main__':
 
     Texts = []
     posted_ids, Texts = search(posted_ids,Texts)
-    try:
-        post(Texts,Web_hook_url)
-    except:
-        print('Error: Unable to post. Check the web-hook URL!')
     posted_ids['date'] = pandas.to_datetime(posted_ids['date'])
     posted_ids['release_date'] = pandas.to_datetime(posted_ids['release_date'])
     posted_ids = posted_ids.sort_values(by=['date','weight'], ascending=False).reset_index(drop=1)
     posted_ids.to_csv(posted_ids_file, index=False)
     makeMarkdown(posted_ids)
 
-    # # auto-update git repo
-    # try:
-    #     if os.popen('git diff README.md posted_ids.csv').read():
-    #         print(os.popen('git add README.md posted_ids.csv').read())
-    #         #print(os.popen('git status').read())
-    #         print(os.popen('git commit -m "Updated to today\'s feed."').read())
-    #         print(os.popen('git push').read())
-    # except: print('Please check git master status.')
+    # auto-update git repo
+    try:
+        if os.popen('git diff README.md posted_ids.csv').read():
+            print(os.popen('git add README.md posted_ids.csv').read())
+            #print(os.popen('git status').read())
+            print(os.popen('git commit -m "Updated to today\'s feed."').read())
+            print(os.popen('git push').read())
+    except: print('Please check git master status.')
+    print('{} - Finished run'.format(dt.datetime.now().isoformat()))
+
+def main():
+    # Start a scheduler to run every day starting tomorrow at 1:30am
+    sched = BlockingScheduler()
+    sched.add_job(run, 'interval', days=1, start_date=(dt.date.today() + dt.timedelta(days=1)).isoformat() + ' 01:30:00')
+    sched.start()
+
+if __name__== '__main__':
+    main()
