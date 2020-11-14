@@ -5,57 +5,72 @@
 #### Below are two lists of papers from arXiv's cs.CV, cs.LG and stat.ML, as sorted using this metric. The first being a sorted list of papers released today, and the second being a sorted list of papers released in the past 7 days. This repo also has the code to post these lists to your desired Slack channels. Suggestions or improvements are always welcome!
 
 ## Daily top 10
-1. *PoseTrackReID: Dataset Description* [url](http://arxiv.org/abs/2011.06243v1)
-2. *Reinforcement Learning with Videos: Combining Offline Observations with Interaction* [url](http://arxiv.org/abs/2011.06507v1)
-3. *StrObe: Streaming Object Detection from LiDAR Packets* [url](http://arxiv.org/abs/2011.06425v1)
-4. *Fairness and Robustness in Invariant Learning: A Case Study in Toxicity Classification* [url](http://arxiv.org/abs/2011.06485v1)
-5. *Ridge Rider: Finding Diverse Solutions by Following Eigenvectors of the Hessian* [url](http://arxiv.org/abs/2011.06505v1)
-6. *Kernel k-Means, By All Means: Algorithms and Strong Consistency* [url](http://arxiv.org/abs/2011.06461v1)
-7. *Shared Prior Learning of Energy-Based Models for Image Reconstruction* [url](http://arxiv.org/abs/2011.06539v1)
-8. *A partition-based similarity for classification distributions* [url](http://arxiv.org/abs/2011.06557v1)
-9. *Cross Layer Optimization and Distributed Reinforcement Learning Approach for Tile-Based 360 Degree Wireless Video Streaming* [url](http://arxiv.org/abs/2011.06356v1)
-10. *Discriminative, Generative and Self-Supervised Approaches for Target-Agnostic Learning* [url](http://arxiv.org/abs/2011.06428v1)
+1. *Artificial Neural Variability for Deep Learning: On Overfitting, Noise Memorization, and Catastrophic Forgetting* [url](http://arxiv.org/abs/2011.06220v1)
+2. *A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges* [url](http://arxiv.org/abs/2011.06225v1)
+3. *Solving high-dimensional parameter inference: marginal posterior densities & Moment Networks* [url](http://arxiv.org/abs/2011.05991v1)
+4. *Deep machine learning-assisted multiphoton microscopy to reduce light exposure and expedite imaging* [url](http://arxiv.org/abs/2011.06408v1)
+5. *Hurricane Forecasting: A Novel Multimodal Machine Learning Framework* [url](http://arxiv.org/abs/2011.06125v1)
+6. *Universal Embeddings for Spatio-Temporal Tagging of Self-Driving Logs* [url](http://arxiv.org/abs/2011.06165v1)
+7. *FS-HGR: Few-shot Learning for Hand Gesture Recognition via ElectroMyography* [url](http://arxiv.org/abs/2011.06104v1)
+8. *Testing for Typicality with Respect to an Ensemble of Learned Distributions* [url](http://arxiv.org/abs/2011.06041v1)
+9. *Coded Computing for Low-Latency Federated Learning over Wireless Edge Networks* [url](http://arxiv.org/abs/2011.06223v1)
+10. *Unsupervised Video Representation Learning by Bidirectional Feature Prediction* [url](http://arxiv.org/abs/2011.06037v1)
 <details><summary>today's remaining papers</summary>
   <ol start=11>
-    <li><i>Learning Inter-Modal Correspondence and Phenotypes from Multi-Modal Electronic Health Records</i> <a href="http://arxiv.org/abs/2011.06301v1">url</a></li>
-    <li><i>Analyzing Neural Discourse Coherence Models</i> <a href="http://arxiv.org/abs/2011.06306v1">url</a></li>
-    <li><i>Unsupervised MR Motion Artifact Deep Learning using Outlier-Rejecting Bootstrap Aggregation</i> <a href="http://arxiv.org/abs/2011.06337v1">url</a></li>
-    <li><i>Image Anomaly Detection by Aggregating Deep Pyramidal Representations</i> <a href="http://arxiv.org/abs/2011.06288v1">url</a></li>
-    <li><i>Fit2Form: 3D Generative Model for Robot Gripper Form Design</i> <a href="http://arxiv.org/abs/2011.06498v1">url</a></li>
-    <li><i>Same Object, Different Grasps: Data and Semantic Knowledge for Task-Oriented Grasping</i> <a href="http://arxiv.org/abs/2011.06431v1">url</a></li>
-    <li><i>Content-based Image Retrieval and the Semantic Gap in the Deep Learning Era</i> <a href="http://arxiv.org/abs/2011.06490v1">url</a></li>
-    <li><i>Learning causal representations for robust domain adaptation</i> <a href="http://arxiv.org/abs/2011.06317v1">url</a></li>
-    <li><i>Sparse PCA: Algorithms, Adversarial Perturbations and Certificates</i> <a href="http://arxiv.org/abs/2011.06585v1">url</a></li>
-    <li><i>RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation</i> <a href="http://arxiv.org/abs/2011.06294v1">url</a></li>
-    <li><i>Relative Lipschitzness in Extragradient Methods and a Direct Recipe for Acceleration</i> <a href="http://arxiv.org/abs/2011.06572v1">url</a></li>
-    <li><i>Real-World Anomaly Detection by using Digital Twin Systems and Weakly-Supervised Learning</i> <a href="http://arxiv.org/abs/2011.06296v1">url</a></li>
-    <li><i>3D-OES: Viewpoint-Invariant Object-Factorized Environment Simulators</i> <a href="http://arxiv.org/abs/2011.06464v1">url</a></li>
-    <li><i>Low PAPR waveform design for OFDM SYSTEM based on Convolutional Auto-Encoder</i> <a href="http://arxiv.org/abs/2011.06349v1">url</a></li>
-    <li><i>How to Measure Gender Bias in Machine Translation: Optimal Translators, Multiple Reference Points</i> <a href="http://arxiv.org/abs/2011.06445v1">url</a></li>
-    <li><i>SVAM: Saliency-guided Visual Attention Modeling by Autonomous Underwater Robots</i> <a href="http://arxiv.org/abs/2011.06252v1">url</a></li>
-    <li><i>Learning to Segment Dynamic Objects using SLAM Outliers</i> <a href="http://arxiv.org/abs/2011.06259v1">url</a></li>
-    <li><i>Fed-Focal Loss for imbalanced data classification in Federated Learning</i> <a href="http://arxiv.org/abs/2011.06283v1">url</a></li>
-    <li><i>An improved spectral clustering method for community detection under the degree-corrected stochastic blockmodel</i> <a href="http://arxiv.org/abs/2011.06374v1">url</a></li>
-    <li><i>Image analysis for Alzheimer's disease prediction: Embracing pathological hallmarks for model architecture design</i> <a href="http://arxiv.org/abs/2011.06531v1">url</a></li>
-    <li><i>Biomedical Named Entity Recognition at Scale</i> <a href="http://arxiv.org/abs/2011.06315v1">url</a></li>
-    <li><i>Improving Model Accuracy for Imbalanced Image Classification Tasks by Adding a Final Batch Normalization Layer: An Empirical Study</i> <a href="http://arxiv.org/abs/2011.06319v1">url</a></li>
-    <li><i>SigmaLaw-ABSA: Dataset for Aspect-Based Sentiment Analysis in Legal Opinion Texts</i> <a href="http://arxiv.org/abs/2011.06326v1">url</a></li>
-    <li><i>Analysis of COVID-19 evolution in Senegal: impact of health care capacity</i> <a href="http://arxiv.org/abs/2011.06278v1">url</a></li>
-    <li><i>Machine Learning Interpretability Meets TLS Fingerprinting</i> <a href="http://arxiv.org/abs/2011.06304v1">url</a></li>
-    <li><i>Implicit bias of gradient-descent: fast convergence rate</i> <a href="http://arxiv.org/abs/2011.06550v1">url</a></li>
-    <li><i>Distributed Sparse SGD with Majority Voting</i> <a href="http://arxiv.org/abs/2011.06495v1">url</a></li>
-    <li><i>VCE: Variational Convertor-Encoder for One-Shot Generalization</i> <a href="http://arxiv.org/abs/2011.06246v1">url</a></li>
-    <li><i>Quantum algorithms for spectral sums</i> <a href="http://arxiv.org/abs/2011.06475v1">url</a></li>
-    <li><i>Hierarchical reinforcement learning for efficient exploration and transfer</i> <a href="http://arxiv.org/abs/2011.06335v1">url</a></li>
-    <li><i>A deep Q-Learning based Path Planning and Navigation System for Firefighting Environments</i> <a href="http://arxiv.org/abs/2011.06450v1">url</a></li>
-    <li><i>Goal-driven Command Recommendations for Analysts</i> <a href="http://arxiv.org/abs/2011.06237v1">url</a></li>
-    <li><i>Learning to Personalize Treatments When Agents Are Strategic</i> <a href="http://arxiv.org/abs/2011.06528v1">url</a></li>
-    <li><i>Hierarchical Prosody Modeling for Non-Autoregressive Speech Synthesis</i> <a href="http://arxiv.org/abs/2011.06465v1">url</a></li>
-    <li><i>Heterogeneous Data-Aware Federated Learning</i> <a href="http://arxiv.org/abs/2011.06393v1">url</a></li>
-    <li><i>Using IPA-Based Tacotron for Data Efficient Cross-Lingual Speaker Adaptation and Pronunciation Enhancement</i> <a href="http://arxiv.org/abs/2011.06392v1">url</a></li>
-    <li><i>Online Influence Maximization under Linear Threshold Model</i> <a href="http://arxiv.org/abs/2011.06378v1">url</a></li>
-    <li><i>Multi-View Dynamic Heterogeneous Information Network Embedding</i> <a href="http://arxiv.org/abs/2011.06346v1">url</a></li>
-    <li><i>When deep learning models on GPU can be accelerated by taking advantage of unstructured sparsity</i> <a href="http://arxiv.org/abs/2011.06295v1">url</a></li>
+    <li><i>Sketch and Scale: Geo-distributed tSNE and UMAP</i> <a href="http://arxiv.org/abs/2011.06103v1">url</a></li>
+    <li><i>Decomposing Normal and Abnormal Features of Medical Images for Content-based Image Retrieval</i> <a href="http://arxiv.org/abs/2011.06224v1">url</a></li>
+    <li><i>CheXphotogenic: Generalization of Deep Learning Models for Chest X-ray Interpretation to Photos of Chest X-rays</i> <a href="http://arxiv.org/abs/2011.06129v1">url</a></li>
+    <li><i>Exploring Gender Disparities in Time to Diagnosis</i> <a href="http://arxiv.org/abs/2011.06100v1">url</a></li>
+    <li><i>Domain Generalization in Biosignal Classification</i> <a href="http://arxiv.org/abs/2011.06207v1">url</a></li>
+    <li><i>Deep learning and hand-crafted features for virus image classification</i> <a href="http://arxiv.org/abs/2011.06123v1">url</a></li>
+    <li><i>Physics-constrained Deep Learning of Multi-zone Building Thermal Dynamics</i> <a href="http://arxiv.org/abs/2011.05987v1">url</a></li>
+    <li><i>DSAM: A Distance Shrinking with Angular Marginalizing Loss for High Performance Vehicle Re-identificatio</i> <a href="http://arxiv.org/abs/2011.06228v1">url</a></li>
+    <li><i>Towards NNGP-guided Neural Architecture Search</i> <a href="http://arxiv.org/abs/2011.06006v1">url</a></li>
+    <li><i>Mostly Harmless Machine Learning: Learning Optimal Instruments in Linear IV Models</i> <a href="http://arxiv.org/abs/2011.06158v1">url</a></li>
+    <li><i>Deep Partial Multi-View Learning</i> <a href="http://arxiv.org/abs/2011.06170v1">url</a></li>
+    <li><i>Towards Optimal Problem Dependent Generalization Error Bounds in Statistical Learning Theory</i> <a href="http://arxiv.org/abs/2011.06186v1">url</a></li>
+    <li><i>Forecasting Emergency Department Capacity Constraints for COVID Isolation Beds</i> <a href="http://arxiv.org/abs/2011.06058v1">url</a></li>
+    <li><i>Machine Learning Based Path Planning for Improved Rover Navigation (Pre-Print Version)</i> <a href="http://arxiv.org/abs/2011.06022v1">url</a></li>
+    <li><i>Policing Chronic and Temporary Hot Spots of Violent Crime: A Controlled Field Experiment</i> <a href="http://arxiv.org/abs/2011.06019v1">url</a></li>
+    <li><i>Motion Generation Using Bilateral Control-Based Imitation Learning with Autoregressive Learning</i> <a href="http://arxiv.org/abs/2011.06192v1">url</a></li>
+    <li><i>Robust and Stable Black Box Explanations</i> <a href="http://arxiv.org/abs/2011.06169v1">url</a></li>
+    <li><i>Ensuring Actionable Recourse via Adversarial Training</i> <a href="http://arxiv.org/abs/2011.06146v1">url</a></li>
+    <li><i>Deep Sketch-Based Modeling: Tips and Tricks</i> <a href="http://arxiv.org/abs/2011.06133v1">url</a></li>
+    <li><i>Rediscovering alignment relations with Graph Convolutional Networks</i> <a href="http://arxiv.org/abs/2011.06023v1">url</a></li>
+    <li><i>Robust multi-stage model-based design of optimal experiments for nonlinear estimation</i> <a href="http://arxiv.org/abs/2011.06042v1">url</a></li>
+    <li><i>LIAF-Net: Leaky Integrate and Analog Fire Network for Lightweight and Efficient Spatiotemporal Information Processing</i> <a href="http://arxiv.org/abs/2011.06176v1">url</a></li>
+    <li><i>Maximum sampled conditional likelihood for informative subsampling</i> <a href="http://arxiv.org/abs/2011.05988v1">url</a></li>
+    <li><i>Author's Sentiment Prediction</i> <a href="http://arxiv.org/abs/2011.06128v1">url</a></li>
+    <li><i>When Does Uncertainty Matter?: Understanding the Impact of Predictive Uncertainty in ML Assisted Decision Making</i> <a href="http://arxiv.org/abs/2011.06167v1">url</a></li>
+    <li><i>FastPathology: An open-source platform for deep learning-based research and decision support in digital pathology</i> <a href="http://arxiv.org/abs/2011.06033v1">url</a></li>
+    <li><i>End-to-end optimized image compression for machines, a study</i> <a href="http://arxiv.org/abs/2011.06409v1">url</a></li>
+    <li><i>Non-local Optimization: Imposing Structure on Optimization Problems by Relaxation</i> <a href="http://arxiv.org/abs/2011.06064v1">url</a></li>
+    <li><i>Privacy Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective</i> <a href="http://arxiv.org/abs/2011.06205v1">url</a></li>
+    <li><i>Bottleneck Problems: Information and Estimation-Theoretic View</i> <a href="http://arxiv.org/abs/2011.06208v1">url</a></li>
+    <li><i>GANMEX: One-vs-One Attributions using GAN-based Model Explainability</i> <a href="http://arxiv.org/abs/2011.06015v1">url</a></li>
+    <li><i>Unsupervised Multimodal Image Registration with Adaptative Gradient Guidance</i> <a href="http://arxiv.org/abs/2011.06216v1">url</a></li>
+    <li><i>Unimodal Cyclic Regularization for Training Multimodal Image Registration Networks</i> <a href="http://arxiv.org/abs/2011.06214v1">url</a></li>
+    <li><i>FusedMM: A Unified SDDMM-SpMM Kernel for Graph Embedding and Graph Neural Networks</i> <a href="http://arxiv.org/abs/2011.06391v1">url</a></li>
+    <li><i>Linear Dilation-Erosion Perceptron Trained Using a Convex-Concave Procedure</i> <a href="http://arxiv.org/abs/2011.06512v1">url</a></li>
+    <li><i>Linear Dilation-Erosion Perceptron for Binary Classification</i> <a href="http://arxiv.org/abs/2011.05989v1">url</a></li>
+    <li><i>Quantifying and Learning Disentangled Representations with Limited Supervision</i> <a href="http://arxiv.org/abs/2011.06070v1">url</a></li>
+    <li><i>Augmenting BERT Carefully with Underrepresented Linguistic Features</i> <a href="http://arxiv.org/abs/2011.06153v1">url</a></li>
+    <li><i>Towards Semi-Supervised Semantics Understanding from Speech</i> <a href="http://arxiv.org/abs/2011.06195v1">url</a></li>
+    <li><i>Ecole: A Gym-like Library for Machine Learning in Combinatorial Optimization Solvers</i> <a href="http://arxiv.org/abs/2011.06069v1">url</a></li>
+    <li><i>Continuous Perception for Classifying Shapes and Weights of Garmentsfor Robotic Vision Applications</i> <a href="http://arxiv.org/abs/2011.06089v1">url</a></li>
+    <li><i>A Transfer Learning Framework for Anomaly Detection Using Model of Normality</i> <a href="http://arxiv.org/abs/2011.06210v1">url</a></li>
+    <li><i>Bi-tuning of Pre-trained Representations</i> <a href="http://arxiv.org/abs/2011.06182v1">url</a></li>
+    <li><i>Dirichlet Pruning for Neural Network Compression</i> <a href="http://arxiv.org/abs/2011.05985v1">url</a></li>
+    <li><i>Anticipatory Navigation in Crowds by Probabilistic Prediction of Pedestrian Future Movements</i> <a href="http://arxiv.org/abs/2011.06235v1">url</a></li>
+    <li><i>Evaluating Curriculum Learning Strategies in Neural Combinatorial Optimization</i> <a href="http://arxiv.org/abs/2011.06188v1">url</a></li>
+    <li><i>Automated Model Compression by Jointly Applied Pruning and Quantization</i> <a href="http://arxiv.org/abs/2011.06231v1">url</a></li>
+    <li><i>Adding Knowledge to Unsupervised Algorithms for the Recognition of Intent</i> <a href="http://arxiv.org/abs/2011.06219v1">url</a></li>
+    <li><i>Gaussian RAM: Lightweight Image Classification via Stochastic Retina-Inspired Glimpse and Reinforcement Learning</i> <a href="http://arxiv.org/abs/2011.06190v1">url</a></li>
+    <li><i>Atrial Fibrillation Detection and ECG Classification based on CNN-BiLSTM</i> <a href="http://arxiv.org/abs/2011.06187v1">url</a></li>
+    <li><i>Optimizing Large-Scale Fleet Management on a Road Network using Multi-Agent Deep Reinforcement Learning with Graph Neural Network</i> <a href="http://arxiv.org/abs/2011.06175v1">url</a></li>
+    <li><i>I-POST: Intelligent Point of Sale and Transaction System</i> <a href="http://arxiv.org/abs/2011.06144v1">url</a></li>
+    <li><i>Clustering of Big Data with Mixed Features</i> <a href="http://arxiv.org/abs/2011.06043v1">url</a></li>
+    <li><i>Statistical learning for change point and anomaly detection in graphs</i> <a href="http://arxiv.org/abs/2011.06080v1">url</a></li>
   </ol>
 </details>
 
@@ -71,24 +86,28 @@
 9. *Joint Super-Resolution and Rectification for Solar Cell Inspection* [url](http://arxiv.org/abs/2011.05003v1)
 10. *F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams* [url](http://arxiv.org/abs/2011.04723v1)
 11. *Correlator Convolutional Neural Networks: An Interpretable Architecture for Image-like Quantum Matter Data* [url](http://arxiv.org/abs/2011.03474v1)
-12. *Filtered Manifold Alignment* [url](http://arxiv.org/abs/2011.05716v1)
-13. *AI Poincaré: Machine Learning Conservation Laws from Trajectories* [url](http://arxiv.org/abs/2011.04698v1)
-14. *Multimodal Trajectory Prediction via Topological Invariance for Navigation at Uncontrolled Intersections* [url](http://arxiv.org/abs/2011.03894v1)
-15. *PoseTrackReID: Dataset Description* [url](http://arxiv.org/abs/2011.06243v1)
-16. *Neural Stochastic Contraction Metrics for Robust Control and Estimation* [url](http://arxiv.org/abs/2011.03168v1)
-17. *Do We Exploit all Information for Counterfactual Analysis? Benefits of Factor Models and Idiosyncratic Correction* [url](http://arxiv.org/abs/2011.03996v1)
-18. *Self-supervised Segmentation via Background Inpainting* [url](http://arxiv.org/abs/2011.05626v1)
-19. *Multi-modal, multi-task, multi-attention (M3) deep learning detection of reticular pseudodrusen: 1 towards automated and accessible classification of age-related macular degeneration* [url](http://arxiv.org/abs/2011.05142v1)
-20. *Reinforcement Learning with Videos: Combining Offline Observations with Interaction* [url](http://arxiv.org/abs/2011.06507v1)
+12. *Artificial Neural Variability for Deep Learning: On Overfitting, Noise Memorization, and Catastrophic Forgetting* [url](http://arxiv.org/abs/2011.06220v1)
+13. *Filtered Manifold Alignment* [url](http://arxiv.org/abs/2011.05716v1)
+14. *AI Poincaré: Machine Learning Conservation Laws from Trajectories* [url](http://arxiv.org/abs/2011.04698v1)
+15. *Multimodal Trajectory Prediction via Topological Invariance for Navigation at Uncontrolled Intersections* [url](http://arxiv.org/abs/2011.03894v1)
+16. *PoseTrackReID: Dataset Description* [url](http://arxiv.org/abs/2011.06243v1)
+17. *Neural Stochastic Contraction Metrics for Robust Control and Estimation* [url](http://arxiv.org/abs/2011.03168v1)
+18. *Do We Exploit all Information for Counterfactual Analysis? Benefits of Factor Models and Idiosyncratic Correction* [url](http://arxiv.org/abs/2011.03996v1)
+19. *A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges* [url](http://arxiv.org/abs/2011.06225v1)
+20. *Self-supervised Segmentation via Background Inpainting* [url](http://arxiv.org/abs/2011.05626v1)
 <details><summary>this week's remaining papers</summary>
   <ol start=21>
+    <li><i>Multi-modal, multi-task, multi-attention (M3) deep learning detection of reticular pseudodrusen: 1 towards automated and accessible classification of age-related macular degeneration</i> <a href="http://arxiv.org/abs/2011.05142v1">url</a></li>
+    <li><i>Reinforcement Learning with Videos: Combining Offline Observations with Interaction</i> <a href="http://arxiv.org/abs/2011.06507v1">url</a></li>
     <li><i>STCNet: Spatio-Temporal Cross Network for Industrial Smoke Detection</i> <a href="http://arxiv.org/abs/2011.04863v1">url</a></li>
+    <li><i>Solving high-dimensional parameter inference: marginal posterior densities & Moment Networks</i> <a href="http://arxiv.org/abs/2011.05991v1">url</a></li>
     <li><i>User-Dependent Neural Sequence Models for Continuous-Time Event Data</i> <a href="http://arxiv.org/abs/2011.03231v1">url</a></li>
     <li><i>Underspecification Presents Challenges for Credibility in Modern Machine Learning</i> <a href="http://arxiv.org/abs/2011.03395v1">url</a></li>
     <li><i>An Attack on InstaHide: Is Private Learning Possible with Instance Encoding?</i> <a href="http://arxiv.org/abs/2011.05315v1">url</a></li>
     <li><i>Large-scale multilingual audio visual dubbing</i> <a href="http://arxiv.org/abs/2011.03530v1">url</a></li>
     <li><i>A Survey of Label-noise Representation Learning: Past, Present and Future</i> <a href="http://arxiv.org/abs/2011.04406v1">url</a></li>
     <li><i>Learned Equivariant Rendering without Transformation Supervision</i> <a href="http://arxiv.org/abs/2011.05787v1">url</a></li>
+    <li><i>Deep machine learning-assisted multiphoton microscopy to reduce light exposure and expedite imaging</i> <a href="http://arxiv.org/abs/2011.06408v1">url</a></li>
     <li><i>Fast Fourier Intrinsic Network</i> <a href="http://arxiv.org/abs/2011.04612v1">url</a></li>
     <li><i>Learning to Infer Semantic Parameters for 3D Shape Editing</i> <a href="http://arxiv.org/abs/2011.04755v1">url</a></li>
     <li><i>Adversarial images for the primate brain</i> <a href="http://arxiv.org/abs/2011.05623v1">url</a></li>
@@ -102,13 +121,16 @@
     <li><i>Estimation, Confidence Intervals, and Large-Scale Hypotheses Testing for High-Dimensional Mixed Linear Regression</i> <a href="http://arxiv.org/abs/2011.03598v1">url</a></li>
     <li><i>Distributed Stochastic Consensus Optimization with Momentum for Nonconvex Nonsmooth Problems</i> <a href="http://arxiv.org/abs/2011.05082v1">url</a></li>
     <li><i>FPGA: Fast Patch-Free Global Learning Framework for Fully End-to-End Hyperspectral Image Classification</i> <a href="http://arxiv.org/abs/2011.05670v1">url</a></li>
+    <li><i>Hurricane Forecasting: A Novel Multimodal Machine Learning Framework</i> <a href="http://arxiv.org/abs/2011.06125v1">url</a></li>
     <li><i>Federated Learning via Intelligent Reflecting Surface</i> <a href="http://arxiv.org/abs/2011.05051v1">url</a></li>
     <li><i>Self-Supervised Out-of-Distribution Detection in Brain CT Scans</i> <a href="http://arxiv.org/abs/2011.05428v1">url</a></li>
     <li><i>Text-to-Image Generation Grounded by Fine-Grained User Attention</i> <a href="http://arxiv.org/abs/2011.03775v1">url</a></li>
+    <li><i>Universal Embeddings for Spatio-Temporal Tagging of Self-Driving Logs</i> <a href="http://arxiv.org/abs/2011.06165v1">url</a></li>
     <li><i>Sim-to-Real Transfer for Vision-and-Language Navigation</i> <a href="http://arxiv.org/abs/2011.03807v1">url</a></li>
     <li><i>Kimera-Multi: a System for Distributed Multi-Robot Metric-Semantic Simultaneous Localization and Mapping</i> <a href="http://arxiv.org/abs/2011.04087v1">url</a></li>
     <li><i>Learning to Communicate and Correct Pose Errors</i> <a href="http://arxiv.org/abs/2011.05289v1">url</a></li>
     <li><i>ShadowNet: A Secure and Efficient System for On-device Model Inference</i> <a href="http://arxiv.org/abs/2011.05905v1">url</a></li>
+    <li><i>FS-HGR: Few-shot Learning for Hand Gesture Recognition via ElectroMyography</i> <a href="http://arxiv.org/abs/2011.06104v1">url</a></li>
     <li><i>Modeling Drug Combinations based on Molecular Structures and Biological Targets</i> <a href="http://arxiv.org/abs/2011.04651v1">url</a></li>
     <li><i>StrObe: Streaming Object Detection from LiDAR Packets</i> <a href="http://arxiv.org/abs/2011.06425v1">url</a></li>
     <li><i>Deep correction of breathing-related artifacts in MR-thermometry</i> <a href="http://arxiv.org/abs/2011.05025v1">url</a></li>
@@ -131,6 +153,7 @@
     <li><i>Classification of Polarimetric SAR Images Using Compact Convolutional Neural Networks</i> <a href="http://arxiv.org/abs/2011.05243v1">url</a></li>
     <li><i>Joint predictions of multi-modal ride-hailing demands: a deep multi-task multigraph learning-based approach</i> <a href="http://arxiv.org/abs/2011.05602v1">url</a></li>
     <li><i>Improved deep learning techniques in gravitational-wave data analysis</i> <a href="http://arxiv.org/abs/2011.04418v1">url</a></li>
+    <li><i>Testing for Typicality with Respect to an Ensemble of Learned Distributions</i> <a href="http://arxiv.org/abs/2011.06041v1">url</a></li>
     <li><i>Image Clustering using an Augmented Generative Adversarial Network and Information Maximization</i> <a href="http://arxiv.org/abs/2011.04094v1">url</a></li>
     <li><i>Learning to Model and Ignore Dataset Bias with Mixed Capacity Ensembles</i> <a href="http://arxiv.org/abs/2011.03856v1">url</a></li>
     <li><i>ACED: Accelerated Computational Electrochemical systems Discovery</i> <a href="http://arxiv.org/abs/2011.04426v1">url</a></li>
@@ -178,6 +201,7 @@
     <li><i>Temporal Stochastic Softmax for 3D CNNs: An Application in Facial Expression Recognition</i> <a href="http://arxiv.org/abs/2011.05227v1">url</a></li>
     <li><i>Deep Bayesian Nonparametric Factor Analysis</i> <a href="http://arxiv.org/abs/2011.04770v1">url</a></li>
     <li><i>Closing the Generalization Gap in One-Shot Object Detection</i> <a href="http://arxiv.org/abs/2011.04267v1">url</a></li>
+    <li><i>Coded Computing for Low-Latency Federated Learning over Wireless Edge Networks</i> <a href="http://arxiv.org/abs/2011.06223v1">url</a></li>
     <li><i>Interventional Domain Adaptation</i> <a href="http://arxiv.org/abs/2011.03737v1">url</a></li>
     <li><i>E.T.: Entity-Transformers. Coreference augmented Neural Language Model for richer mention representations via Entity-Transformer blocks</i> <a href="http://arxiv.org/abs/2011.05431v1">url</a></li>
     <li><i>Learning for Integer-Constrained Optimization through Neural Networks with Limited Training</i> <a href="http://arxiv.org/abs/2011.05399v1">url</a></li>
@@ -209,6 +233,7 @@
     <li><i>Automatic Open-World Reliability Assessment</i> <a href="http://arxiv.org/abs/2011.05506v1">url</a></li>
     <li><i>Learning to Orient Surfaces by Self-supervised Spherical CNNs</i> <a href="http://arxiv.org/abs/2011.03298v1">url</a></li>
     <li><i>Singular Sturm-Liouville Problems with Zero Potential (q=0) and Singular Slow Feature Analysis</i> <a href="http://arxiv.org/abs/2011.04765v1">url</a></li>
+    <li><i>Unsupervised Video Representation Learning by Bidirectional Feature Prediction</i> <a href="http://arxiv.org/abs/2011.06037v1">url</a></li>
     <li><i>A Weakly Supervised Convolutional Network for Change Segmentation and Classification</i> <a href="http://arxiv.org/abs/2011.03577v1">url</a></li>
     <li><i>Applications of Online Nonnegative Matrix Factorization to Image and Time-Series Data</i> <a href="http://arxiv.org/abs/2011.05384v1">url</a></li>
     <li><i>Quantum-Inspired Algorithms from Randomized Numerical Linear Algebra</i> <a href="http://arxiv.org/abs/2011.04125v1">url</a></li>
@@ -219,13 +244,16 @@
     <li><i>EXAMS: A Multi-Subject High School Examinations Dataset for Cross-Lingual and Multilingual Question Answering</i> <a href="http://arxiv.org/abs/2011.03080v1">url</a></li>
     <li><i>Analyzing Neural Discourse Coherence Models</i> <a href="http://arxiv.org/abs/2011.06306v1">url</a></li>
     <li><i>Long Range Arena: A Benchmark for Efficient Transformers</i> <a href="http://arxiv.org/abs/2011.04006v1">url</a></li>
+    <li><i>Sketch and Scale: Geo-distributed tSNE and UMAP</i> <a href="http://arxiv.org/abs/2011.06103v1">url</a></li>
     <li><i>Locally Adaptive Nearest Neighbors</i> <a href="http://arxiv.org/abs/2011.03904v1">url</a></li>
     <li><i>Feature Removal Is a Unifying Principle for Model Explanation Methods</i> <a href="http://arxiv.org/abs/2011.03623v1">url</a></li>
     <li><i>CenterFusion: Center-based Radar and Camera Fusion for 3D Object Detection</i> <a href="http://arxiv.org/abs/2011.04841v1">url</a></li>
+    <li><i>Decomposing Normal and Abnormal Features of Medical Images for Content-based Image Retrieval</i> <a href="http://arxiv.org/abs/2011.06224v1">url</a></li>
     <li><i>FACEGAN: Facial Attribute Controllable rEenactment GAN</i> <a href="http://arxiv.org/abs/2011.04439v1">url</a></li>
     <li><i>Privacy Preservation in Federated Learning: Insights from the GDPR Perspective</i> <a href="http://arxiv.org/abs/2011.05411v1">url</a></li>
     <li><i>Unsupervised MR Motion Artifact Deep Learning using Outlier-Rejecting Bootstrap Aggregation</i> <a href="http://arxiv.org/abs/2011.06337v1">url</a></li>
     <li><i>Learning Continuous System Dynamics from Irregularly-Sampled Partial Observations</i> <a href="http://arxiv.org/abs/2011.03880v1">url</a></li>
+    <li><i>CheXphotogenic: Generalization of Deep Learning Models for Chest X-ray Interpretation to Photos of Chest X-rays</i> <a href="http://arxiv.org/abs/2011.06129v1">url</a></li>
     <li><i>Age Gap Reducer-GAN for Recognizing Age-Separated Faces</i> <a href="http://arxiv.org/abs/2011.05897v1">url</a></li>
     <li><i>Batchwise Probabilistic Incremental Data Cleaning</i> <a href="http://arxiv.org/abs/2011.04730v1">url</a></li>
     <li><i>Session-aware Recommendation: A Surprising Quest for the State-of-the-art</i> <a href="http://arxiv.org/abs/2011.03424v1">url</a></li>
@@ -244,6 +272,10 @@
     <li><i>Split-Treatment Analysis to Rank Heterogeneous Causal Effects for Prospective Interventions</i> <a href="http://arxiv.org/abs/2011.05877v1">url</a></li>
     <li><i>Cooperative and Stochastic Multi-Player Multi-Armed Bandit: Optimal Regret With Neither Communication Nor Collisions</i> <a href="http://arxiv.org/abs/2011.03896v1">url</a></li>
     <li><i>Dynamic Embeddings for Interaction Prediction</i> <a href="http://arxiv.org/abs/2011.05208v1">url</a></li>
+    <li><i>Exploring Gender Disparities in Time to Diagnosis</i> <a href="http://arxiv.org/abs/2011.06100v1">url</a></li>
+    <li><i>Domain Generalization in Biosignal Classification</i> <a href="http://arxiv.org/abs/2011.06207v1">url</a></li>
+    <li><i>Deep learning and hand-crafted features for virus image classification</i> <a href="http://arxiv.org/abs/2011.06123v1">url</a></li>
+    <li><i>Physics-constrained Deep Learning of Multi-zone Building Thermal Dynamics</i> <a href="http://arxiv.org/abs/2011.05987v1">url</a></li>
     <li><i>Selective Spatio-Temporal Aggregation Based Pose Refinement System: Towards Understanding Human Activities in Real-World Videos</i> <a href="http://arxiv.org/abs/2011.05358v1">url</a></li>
     <li><i>Multi-modal Fusion for Single-Stage Continuous Gesture Recognition</i> <a href="http://arxiv.org/abs/2011.04945v1">url</a></li>
     <li><i>Integrating Human Gaze into Attention for Egocentric Activity Recognition</i> <a href="http://arxiv.org/abs/2011.03920v1">url</a></li>
@@ -251,6 +283,8 @@
     <li><i>Beyond Marginal Uncertainty: How Accurately can Bayesian Regression Models Estimate Posterior Predictive Correlations?</i> <a href="http://arxiv.org/abs/2011.03178v1">url</a></li>
     <li><i>Reactive motion planning with probabilistics safety guarantees</i> <a href="http://arxiv.org/abs/2011.03590v1">url</a></li>
     <li><i>Illumination Normalization by Partially Impossible Encoder-Decoder Cost Function</i> <a href="http://arxiv.org/abs/2011.03428v1">url</a></li>
+    <li><i>DSAM: A Distance Shrinking with Angular Marginalizing Loss for High Performance Vehicle Re-identificatio</i> <a href="http://arxiv.org/abs/2011.06228v1">url</a></li>
+    <li><i>Towards NNGP-guided Neural Architecture Search</i> <a href="http://arxiv.org/abs/2011.06006v1">url</a></li>
     <li><i>Preference-Based Learning for User-Guided HZD Gait Generation on Bipedal Walking Robots</i> <a href="http://arxiv.org/abs/2011.05424v1">url</a></li>
     <li><i>Efficient Training Data Generation for Phase-Based DOA Estimation</i> <a href="http://arxiv.org/abs/2011.04456v1">url</a></li>
     <li><i>Answer Span Correction in Machine Reading Comprehension</i> <a href="http://arxiv.org/abs/2011.03435v1">url</a></li>
@@ -267,13 +301,14 @@
     <li><i>Uncertainty-Aware Constraint Learning for Adaptive Safe Motion Planning from Demonstrations</i> <a href="http://arxiv.org/abs/2011.04141v1">url</a></li>
     <li><i>DeConFuse : A Deep Convolutional Transform based Unsupervised Fusion Framework</i> <a href="http://arxiv.org/abs/2011.04337v1">url</a></li>
     <li><i>ConFuse: Convolutional Transform Learning Fusion Framework For Multi-Channel Data Analysis</i> <a href="http://arxiv.org/abs/2011.04317v1">url</a></li>
+    <li><i>Mostly Harmless Machine Learning: Learning Optimal Instruments in Linear IV Models</i> <a href="http://arxiv.org/abs/2011.06158v1">url</a></li>
     <li><i>Semi-Structured Deep Piecewise Exponential Models</i> <a href="http://arxiv.org/abs/2011.05824v1">url</a></li>
     <li><i>SuperDeConFuse: A Supervised Deep Convolutional Transform based Fusion Framework for Financial Trading Systems</i> <a href="http://arxiv.org/abs/2011.04364v1">url</a></li>
     <li><i>Tattoo tomography: Freehand 3D photoacoustic image reconstruction with an optical pattern</i> <a href="http://arxiv.org/abs/2011.04997v1">url</a></li>
     <li><i>Unwrapping The Black Box of Deep ReLU Networks: Interpretability, Diagnostics, and Simplification</i> <a href="http://arxiv.org/abs/2011.04041v1">url</a></li>
     <li><i>Strawberry Detection Using a Heterogeneous Multi-Processor Platform</i> <a href="http://arxiv.org/abs/2011.03651v1">url</a></li>
-    <li><i>Finding Relevant Flood Images on Twitter using Content-based Filters</i> <a href="http://arxiv.org/abs/2011.05756v1">url</a></li>
     <li><i>Content-based Image Retrieval and the Semantic Gap in the Deep Learning Era</i> <a href="http://arxiv.org/abs/2011.06490v1">url</a></li>
+    <li><i>Finding Relevant Flood Images on Twitter using Content-based Filters</i> <a href="http://arxiv.org/abs/2011.05756v1">url</a></li>
     <li><i>Mode hunting through active information</i> <a href="http://arxiv.org/abs/2011.05794v1">url</a></li>
     <li><i>Spring-Rod System Identification via Differentiable Physics Engine</i> <a href="http://arxiv.org/abs/2011.04910v1">url</a></li>
     <li><i>An End-to-End Differentiable but Explainable Physics Engine for Tensegrity Robots: Modeling and Control</i> <a href="http://arxiv.org/abs/2011.04929v1">url</a></li>
@@ -282,18 +317,22 @@
     <li><i>STOI-Net: A Deep Learning based Non-Intrusive Speech Intelligibility Assessment Model</i> <a href="http://arxiv.org/abs/2011.04292v1">url</a></li>
     <li><i>Binary Matrix Factorisation via Column Generation</i> <a href="http://arxiv.org/abs/2011.04457v1">url</a></li>
     <li><i>Towards a Better Global Loss Landscape of GANs</i> <a href="http://arxiv.org/abs/2011.04926v1">url</a></li>
+    <li><i>Deep Partial Multi-View Learning</i> <a href="http://arxiv.org/abs/2011.06170v1">url</a></li>
     <li><i>Predicting Water Temperature Dynamics of Unmonitored Lakes with Meta Transfer Learning</i> <a href="http://arxiv.org/abs/2011.05369v1">url</a></li>
     <li><i>Find it if You Can: End-to-End Adversarial Erasing for Weakly-Supervised Semantic Segmentation</i> <a href="http://arxiv.org/abs/2011.04626v1">url</a></li>
     <li><i>Uncertainty-Aware Vehicle Orientation Estimation for Joint Detection-Prediction Models</i> <a href="http://arxiv.org/abs/2011.03114v1">url</a></li>
     <li><i>A step towards neural genome assembly</i> <a href="http://arxiv.org/abs/2011.05013v1">url</a></li>
     <li><i>Survey on 3D face reconstruction from uncalibrated images</i> <a href="http://arxiv.org/abs/2011.05740v1">url</a></li>
+    <li><i>Towards Optimal Problem Dependent Generalization Error Bounds in Statistical Learning Theory</i> <a href="http://arxiv.org/abs/2011.06186v1">url</a></li>
     <li><i>Learning ODE Models with Qualitative Structure Using Gaussian Processes</i> <a href="http://arxiv.org/abs/2011.05364v1">url</a></li>
+    <li><i>Forecasting Emergency Department Capacity Constraints for COVID Isolation Beds</i> <a href="http://arxiv.org/abs/2011.06058v1">url</a></li>
     <li><i>Learning causal representations for robust domain adaptation</i> <a href="http://arxiv.org/abs/2011.06317v1">url</a></li>
     <li><i>Right on Time: Multi-Temporal Convolutions for Human Action Recognition in Videos</i> <a href="http://arxiv.org/abs/2011.03949v1">url</a></li>
     <li><i>Bait and Switch: Online Training Data Poisoning of Autonomous Driving Systems</i> <a href="http://arxiv.org/abs/2011.04065v1">url</a></li>
     <li><i>Machine Generation and Detection of Arabic Manipulated and Fake News</i> <a href="http://arxiv.org/abs/2011.03092v1">url</a></li>
     <li><i>MorphEyes: Variable Baseline Stereo For Quadrotor Navigation</i> <a href="http://arxiv.org/abs/2011.03077v1">url</a></li>
     <li><i>Objective Diagnosis for Histopathological Images Based on Machine Learning Techniques: Classical Approaches and New Trends</i> <a href="http://arxiv.org/abs/2011.05790v1">url</a></li>
+    <li><i>Machine Learning Based Path Planning for Improved Rover Navigation (Pre-Print Version)</i> <a href="http://arxiv.org/abs/2011.06022v1">url</a></li>
     <li><i>Sparse PCA: Algorithms, Adversarial Perturbations and Certificates</i> <a href="http://arxiv.org/abs/2011.06585v1">url</a></li>
     <li><i>RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation</i> <a href="http://arxiv.org/abs/2011.06294v1">url</a></li>
     <li><i>A Theory of Universal Learning</i> <a href="http://arxiv.org/abs/2011.04483v1">url</a></li>
@@ -324,40 +363,51 @@
     <li><i>On Efficient and Robust Metrics for RANSAC Hypotheses and 3D Rigid Registration</i> <a href="http://arxiv.org/abs/2011.04862v1">url</a></li>
     <li><i>Stable Sample Compression Schemes: New Applications and an Optimal SVM Margin Bound</i> <a href="http://arxiv.org/abs/2011.04586v1">url</a></li>
     <li><i>Real-World Anomaly Detection by using Digital Twin Systems and Weakly-Supervised Learning</i> <a href="http://arxiv.org/abs/2011.06296v1">url</a></li>
+    <li><i>Policing Chronic and Temporary Hot Spots of Violent Crime: A Controlled Field Experiment</i> <a href="http://arxiv.org/abs/2011.06019v1">url</a></li>
     <li><i>Inferring Symbolic Automata</i> <a href="http://arxiv.org/abs/2011.05389v1">url</a></li>
     <li><i>Decoupled Appearance and Motion Learning for Efficient Anomaly Detection in Surveillance Video</i> <a href="http://arxiv.org/abs/2011.05054v1">url</a></li>
     <li><i>Learning to Compose Hierarchical Object-Centric Controllers for Robotic Manipulation</i> <a href="http://arxiv.org/abs/2011.04627v1">url</a></li>
     <li><i>Two-dimensional Bhattacharyya bound linear discriminant analysis with its applications</i> <a href="http://arxiv.org/abs/2011.05507v1">url</a></li>
+    <li><i>Motion Generation Using Bilateral Control-Based Imitation Learning with Autoregressive Learning</i> <a href="http://arxiv.org/abs/2011.06192v1">url</a></li>
     <li><i>Exploring the limits of Concurrency in ML Training on Google TPUs</i> <a href="http://arxiv.org/abs/2011.03641v1">url</a></li>
+    <li><i>Robust and Stable Black Box Explanations</i> <a href="http://arxiv.org/abs/2011.06169v1">url</a></li>
     <li><i>CoADNet: Collaborative Aggregation-and-Distribution Networks for Co-Salient Object Detection</i> <a href="http://arxiv.org/abs/2011.04887v1">url</a></li>
+    <li><i>Ensuring Actionable Recourse via Adversarial Training</i> <a href="http://arxiv.org/abs/2011.06146v1">url</a></li>
     <li><i>Artificial Intelligence Decision Support for Medical Triage</i> <a href="http://arxiv.org/abs/2011.04548v1">url</a></li>
     <li><i>Efficient Algorithms for Stochastic Repeated Second-price Auctions</i> <a href="http://arxiv.org/abs/2011.05072v1">url</a></li>
     <li><i>Don't Read Too Much into It: Adaptive Computation for Open-Domain Question Answering</i> <a href="http://arxiv.org/abs/2011.05435v1">url</a></li>
-    <li><i>Efficient Interpolation of Density Estimators</i> <a href="http://arxiv.org/abs/2011.04922v1">url</a></li>
     <li><i>A Statistical Perspective on Coreset Density Estimation</i> <a href="http://arxiv.org/abs/2011.04907v1">url</a></li>
+    <li><i>Efficient Interpolation of Density Estimators</i> <a href="http://arxiv.org/abs/2011.04922v1">url</a></li>
     <li><i>3D-OES: Viewpoint-Invariant Object-Factorized Environment Simulators</i> <a href="http://arxiv.org/abs/2011.06464v1">url</a></li>
     <li><i>What Did You Think Would Happen? Explaining Agent Behaviour Through Intended Outcomes</i> <a href="http://arxiv.org/abs/2011.05064v1">url</a></li>
     <li><i>Confusable Learning for Large-class Few-Shot Classification</i> <a href="http://arxiv.org/abs/2011.03154v1">url</a></li>
+    <li><i>Deep Sketch-Based Modeling: Tips and Tricks</i> <a href="http://arxiv.org/abs/2011.06133v1">url</a></li>
     <li><i>Alignment Restricted Streaming Recurrent Neural Network Transducer</i> <a href="http://arxiv.org/abs/2011.03072v1">url</a></li>
+    <li><i>Rediscovering alignment relations with Graph Convolutional Networks</i> <a href="http://arxiv.org/abs/2011.06023v1">url</a></li>
+    <li><i>Robust multi-stage model-based design of optimal experiments for nonlinear estimation</i> <a href="http://arxiv.org/abs/2011.06042v1">url</a></li>
     <li><i>Neural Spatio-Temporal Point Processes</i> <a href="http://arxiv.org/abs/2011.04583v1">url</a></li>
     <li><i>Learning Neural Event Functions for Ordinary Differential Equations</i> <a href="http://arxiv.org/abs/2011.03902v1">url</a></li>
     <li><i>Asymptotic Convergence of Thompson Sampling</i> <a href="http://arxiv.org/abs/2011.03917v1">url</a></li>
+    <li><i>LIAF-Net: Leaky Integrate and Analog Fire Network for Lightweight and Efficient Spatiotemporal Information Processing</i> <a href="http://arxiv.org/abs/2011.06176v1">url</a></li>
     <li><i>Progressive Spatio-Temporal Graph Convolutional Network for Skeleton-Based Human Action Recognition</i> <a href="http://arxiv.org/abs/2011.05668v1">url</a></li>
     <li><i>On the spatial attention in Spatio-Temporal Graph Convolutional Networks for skeleton-based human action recognition</i> <a href="http://arxiv.org/abs/2011.03833v1">url</a></li>
+    <li><i>Maximum sampled conditional likelihood for informative subsampling</i> <a href="http://arxiv.org/abs/2011.05988v1">url</a></li>
     <li><i>Social-STAGE: Spatio-Temporal Multi-Modal Future Trajectory Forecast</i> <a href="http://arxiv.org/abs/2011.04853v1">url</a></li>
-    <li><i>Multi-label Causal Variable Discovery: Learning Common Causal Variables and Label-specific Causal Variables</i> <a href="http://arxiv.org/abs/2011.04176v1">url</a></li>
     <li><i>Occlusion-Aware Search for Object Retrieval in Clutter</i> <a href="http://arxiv.org/abs/2011.03334v1">url</a></li>
+    <li><i>Multi-label Causal Variable Discovery: Learning Common Causal Variables and Label-specific Causal Variables</i> <a href="http://arxiv.org/abs/2011.04176v1">url</a></li>
     <li><i>Low PAPR waveform design for OFDM SYSTEM based on Convolutional Auto-Encoder</i> <a href="http://arxiv.org/abs/2011.06349v1">url</a></li>
     <li><i>EvidentialMix: Learning with Combined Open-set and Closed-set Noisy Labels</i> <a href="http://arxiv.org/abs/2011.05704v1">url</a></li>
     <li><i>(Quasi-)Real-Time Inversion of Airborne Time-Domain Electromagnetic Data via Artificial Neural Network</i> <a href="http://arxiv.org/abs/2011.03522v1">url</a></li>
     <li><i>Coupled regularized sample covariance matrix estimator for multiple classes</i> <a href="http://arxiv.org/abs/2011.04315v1">url</a></li>
     <li><i>Fine Perceptive GANs for Brain MR Image Super-Resolution in Wavelet Domain</i> <a href="http://arxiv.org/abs/2011.04145v1">url</a></li>
+    <li><i>Author's Sentiment Prediction</i> <a href="http://arxiv.org/abs/2011.06128v1">url</a></li>
     <li><i>Federated Crowdsensing: Framework and Challenges</i> <a href="http://arxiv.org/abs/2011.03208v1">url</a></li>
+    <li><i>When Does Uncertainty Matter?: Understanding the Impact of Predictive Uncertainty in ML Assisted Decision Making</i> <a href="http://arxiv.org/abs/2011.06167v1">url</a></li>
     <li><i>Personalized Query Rewriting in Conversational AI Agents</i> <a href="http://arxiv.org/abs/2011.04748v1">url</a></li>
     <li><i>Predicting the Future is like Completing a Painting!</i> <a href="http://arxiv.org/abs/2011.04750v1">url</a></li>
     <li><i>FAT: Training Neural Networks for Reliable Inference Under Hardware Faults</i> <a href="http://arxiv.org/abs/2011.05873v1">url</a></li>
-    <li><i>Pixel precise unsupervised detection of viral particle proliferation in cellular imaging data</i> <a href="http://arxiv.org/abs/2011.05209v1">url</a></li>
     <li><i>The quantization error in a Self-Organizing Map as a contrast and colour specific indicator of single-pixel change in large random patterns</i> <a href="http://arxiv.org/abs/2011.03970v1">url</a></li>
+    <li><i>Pixel precise unsupervised detection of viral particle proliferation in cellular imaging data</i> <a href="http://arxiv.org/abs/2011.05209v1">url</a></li>
     <li><i>Towards Unifying Feature Attribution and Counterfactual Explanations: Different Means to the Same End</i> <a href="http://arxiv.org/abs/2011.04917v1">url</a></li>
     <li><i>Uses and Abuses of the Cross-Entropy Loss: Case Studies in Modern Deep Learning</i> <a href="http://arxiv.org/abs/2011.05231v1">url</a></li>
     <li><i>A Hysteretic Q-learning Coordination Framework for Emerging Mobility Systems in Smart Cities</i> <a href="http://arxiv.org/abs/2011.03137v1">url</a></li>
@@ -379,8 +429,10 @@
     <li><i>Self-Supervised Learning from Contrastive Mixtures for Personalized Speech Enhancement</i> <a href="http://arxiv.org/abs/2011.03426v1">url</a></li>
     <li><i>Event-VPR: End-to-End Weakly Supervised Network Architecture for Event-based Visual Place Recognition</i> <a href="http://arxiv.org/abs/2011.03290v1">url</a></li>
     <li><i>Two-Stream Appearance Transfer Network for Person Image Generation</i> <a href="http://arxiv.org/abs/2011.04181v1">url</a></li>
+    <li><i>FastPathology: An open-source platform for deep learning-based research and decision support in digital pathology</i> <a href="http://arxiv.org/abs/2011.06033v1">url</a></li>
     <li><i>Numerically Solving Parametric Families of High-Dimensional Kolmogorov Partial Differential Equations via Deep Learning</i> <a href="http://arxiv.org/abs/2011.04602v1">url</a></li>
     <li><i>Explain by Evidence: An Explainable Memory-based Neural Network for Question Answering</i> <a href="http://arxiv.org/abs/2011.03096v1">url</a></li>
+    <li><i>End-to-end optimized image compression for machines, a study</i> <a href="http://arxiv.org/abs/2011.06409v1">url</a></li>
     <li><i>How to Measure Gender Bias in Machine Translation: Optimal Translators, Multiple Reference Points</i> <a href="http://arxiv.org/abs/2011.06445v1">url</a></li>
     <li><i>Human-centric Spatio-Temporal Video Grounding With Visual Transformers</i> <a href="http://arxiv.org/abs/2011.05049v1">url</a></li>
     <li><i>Dimension-agnostic inference</i> <a href="http://arxiv.org/abs/2011.05068v1">url</a></li>
@@ -388,14 +440,21 @@
     <li><i>Reward Conditioned Neural Movement Primitives for Population Based Variational Policy Optimization</i> <a href="http://arxiv.org/abs/2011.04282v1">url</a></li>
     <li><i>Adaptive Learning of Rank-One Models for Efficient Pairwise Sequence Alignment</i> <a href="http://arxiv.org/abs/2011.04832v1">url</a></li>
     <li><i>High-Dimensional Sparse Linear Bandits</i> <a href="http://arxiv.org/abs/2011.04020v1">url</a></li>
+    <li><i>Non-local Optimization: Imposing Structure on Optimization Problems by Relaxation</i> <a href="http://arxiv.org/abs/2011.06064v1">url</a></li>
+    <li><i>Privacy Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective</i> <a href="http://arxiv.org/abs/2011.06205v1">url</a></li>
     <li><i>Thompson sampling for linear quadratic mean-field teams</i> <a href="http://arxiv.org/abs/2011.04686v1">url</a></li>
+    <li><i>Bottleneck Problems: Information and Estimation-Theoretic View</i> <a href="http://arxiv.org/abs/2011.06208v1">url</a></li>
     <li><i>SVAM: Saliency-guided Visual Attention Modeling by Autonomous Underwater Robots</i> <a href="http://arxiv.org/abs/2011.06252v1">url</a></li>
     <li><i>Learning to Segment Dynamic Objects using SLAM Outliers</i> <a href="http://arxiv.org/abs/2011.06259v1">url</a></li>
     <li><i>Emergent Reciprocity and Team Formation from Randomized Uncertain Social Preferences</i> <a href="http://arxiv.org/abs/2011.05373v1">url</a></li>
     <li><i>Toward Edge-Centric Network Embeddings</i> <a href="http://arxiv.org/abs/2011.05650v1">url</a></li>
+    <li><i>GANMEX: One-vs-One Attributions using GAN-based Model Explainability</i> <a href="http://arxiv.org/abs/2011.06015v1">url</a></li>
     <li><i>TRAILER: Transformer-based Time-wise Long Term Relation Modeling for Citywide Traffic Flow Prediction</i> <a href="http://arxiv.org/abs/2011.05554v1">url</a></li>
     <li><i>Multi-output Gaussian Process Modulated Poisson Processes for Event Prediction</i> <a href="http://arxiv.org/abs/2011.03172v1">url</a></li>
+    <li><i>Unimodal Cyclic Regularization for Training Multimodal Image Registration Networks</i> <a href="http://arxiv.org/abs/2011.06214v1">url</a></li>
+    <li><i>Unsupervised Multimodal Image Registration with Adaptative Gradient Guidance</i> <a href="http://arxiv.org/abs/2011.06216v1">url</a></li>
     <li><i>Improving Classifier Confidence using Lossy Label-Invariant Transformations</i> <a href="http://arxiv.org/abs/2011.04182v1">url</a></li>
+    <li><i>FusedMM: A Unified SDDMM-SpMM Kernel for Graph Embedding and Graph Neural Networks</i> <a href="http://arxiv.org/abs/2011.06391v1">url</a></li>
     <li><i>Towards Keypoint Guided Self-Supervised Depth Estimation</i> <a href="http://arxiv.org/abs/2011.03091v1">url</a></li>
     <li><i>Smart Time-Multiplexing of Quads Solves the Multicamera Interference Problem</i> <a href="http://arxiv.org/abs/2011.03102v1">url</a></li>
     <li><i>Can Human Sex Be Learned Using Only 2D Body Keypoint Estimations?</i> <a href="http://arxiv.org/abs/2011.03104v1">url</a></li>
@@ -406,9 +465,11 @@
     <li><i>Fast and Accurate Pseudoinverse with Sparse Matrix Reordering and Incremental Approach</i> <a href="http://arxiv.org/abs/2011.04235v1">url</a></li>
     <li><i>Parametric Flatten-T Swish: An Adaptive Non-linear Activation Function For Deep Learning</i> <a href="http://arxiv.org/abs/2011.03155v1">url</a></li>
     <li><i>An improved spectral clustering method for community detection under the degree-corrected stochastic blockmodel</i> <a href="http://arxiv.org/abs/2011.06374v1">url</a></li>
-    <li><i>Dual regularized Laplacian spectral clustering methods on community detection</i> <a href="http://arxiv.org/abs/2011.04392v1">url</a></li>
     <li><i>Community Detection by Principle Components Clustering Methods</i> <a href="http://arxiv.org/abs/2011.04377v1">url</a></li>
+    <li><i>Dual regularized Laplacian spectral clustering methods on community detection</i> <a href="http://arxiv.org/abs/2011.04392v1">url</a></li>
     <li><i>Graph Neural Network with Automorphic Equivalence Filters</i> <a href="http://arxiv.org/abs/2011.04218v1">url</a></li>
+    <li><i>Linear Dilation-Erosion Perceptron Trained Using a Convex-Concave Procedure</i> <a href="http://arxiv.org/abs/2011.06512v1">url</a></li>
+    <li><i>Linear Dilation-Erosion Perceptron for Binary Classification</i> <a href="http://arxiv.org/abs/2011.05989v1">url</a></li>
     <li><i>Efficient and Transferable Adversarial Examples from Bayesian Neural Networks</i> <a href="http://arxiv.org/abs/2011.05074v1">url</a></li>
     <li><i>A Comprehensive Comparison of Multi-Dimensional Image Denoising Methods</i> <a href="http://arxiv.org/abs/2011.03462v1">url</a></li>
     <li><i>Debugging Tests for Model Explanations</i> <a href="http://arxiv.org/abs/2011.05429v1">url</a></li>
@@ -423,6 +484,7 @@
     <li><i>Learnings from Frontier Development Lab and SpaceML -- AI Accelerators for NASA and ESA</i> <a href="http://arxiv.org/abs/2011.04776v1">url</a></li>
     <li><i>Gaussian Compression Stream: Principle and Preliminary Results</i> <a href="http://arxiv.org/abs/2011.05390v1">url</a></li>
     <li><i>A Poisson multi-Bernoulli mixture filter for coexisting point and extended targets</i> <a href="http://arxiv.org/abs/2011.04464v1">url</a></li>
+    <li><i>Quantifying and Learning Disentangled Representations with Limited Supervision</i> <a href="http://arxiv.org/abs/2011.06070v1">url</a></li>
     <li><i>Automatic Head and Neck Tumor Segmentation in PET/CT with Scale Attention Network</i> <a href="http://arxiv.org/abs/2011.03188v1">url</a></li>
     <li><i>EGAD: Evolving Graph Representation Learning with Self-Attention and Knowledge Distillation for Live Video Streaming Events</i> <a href="http://arxiv.org/abs/2011.05705v1">url</a></li>
     <li><i>Image analysis for Alzheimer's disease prediction: Embracing pathological hallmarks for model architecture design</i> <a href="http://arxiv.org/abs/2011.06531v1">url</a></li>
@@ -455,18 +517,19 @@
     <li><i>Decentralized Structural-RNN for Robot Crowd Navigation with Deep Reinforcement Learning</i> <a href="http://arxiv.org/abs/2011.04820v1">url</a></li>
     <li><i>PointTransformer for Shape Classification and Retrieval of 3D and ALS Roof PointClouds</i> <a href="http://arxiv.org/abs/2011.03921v1">url</a></li>
     <li><i>Neural Latent Dependency Model for Sequence Labeling</i> <a href="http://arxiv.org/abs/2011.05009v1">url</a></li>
+    <li><i>Augmenting BERT Carefully with Underrepresented Linguistic Features</i> <a href="http://arxiv.org/abs/2011.06153v1">url</a></li>
     <li><i>An Investigation of Potential Function Designs for Neural CRF</i> <a href="http://arxiv.org/abs/2011.05604v1">url</a></li>
     <li><i>Detecting Human-Object Interaction with Mixed Supervision</i> <a href="http://arxiv.org/abs/2011.04971v1">url</a></li>
-    <li><i>Learning the Best Pooling Strategy for Visual Semantic Embedding</i> <a href="http://arxiv.org/abs/2011.04305v1">url</a></li>
     <li><i>Machine Learning Interpretability Meets TLS Fingerprinting</i> <a href="http://arxiv.org/abs/2011.06304v1">url</a></li>
+    <li><i>Learning the Best Pooling Strategy for Visual Semantic Embedding</i> <a href="http://arxiv.org/abs/2011.04305v1">url</a></li>
     <li><i>Relation-weighted link prediction for disease gene identification</i> <a href="http://arxiv.org/abs/2011.05138v1">url</a></li>
     <li><i>DeepDFT: Neural Message Passing Network for Accurate Charge Density Prediction</i> <a href="http://arxiv.org/abs/2011.03346v1">url</a></li>
     <li><i>Pristine annotations-based multi-modal trained artificial intelligence solution to triage chest X-ray for COVID-19</i> <a href="http://arxiv.org/abs/2011.05186v1">url</a></li>
     <li><i>A Multi-stream Convolutional Neural Network for Micro-expression Recognition Using Optical Flow and EVM</i> <a href="http://arxiv.org/abs/2011.03756v1">url</a></li>
     <li><i>Robust Visual Tracking via Statistical Positive Sample Generation and Gradient Aware Learning</i> <a href="http://arxiv.org/abs/2011.04260v1">url</a></li>
     <li><i>Blind Motion Deblurring through SinGAN Architecture</i> <a href="http://arxiv.org/abs/2011.03705v1">url</a></li>
-    <li><i>DeepCFL: Deep Contextual Features Learning from a Single Image</i> <a href="http://arxiv.org/abs/2011.03712v1">url</a></li>
     <li><i>Bayesian model of electrical heating disaggregation</i> <a href="http://arxiv.org/abs/2011.05674v1">url</a></li>
+    <li><i>DeepCFL: Deep Contextual Features Learning from a Single Image</i> <a href="http://arxiv.org/abs/2011.03712v1">url</a></li>
     <li><i>Estimating expectation values using approximate quantum states</i> <a href="http://arxiv.org/abs/2011.04754v1">url</a></li>
     <li><i>Deep coastal sea elements forecasting using U-Net based models</i> <a href="http://arxiv.org/abs/2011.03303v1">url</a></li>
     <li><i>Building an Automated and Self-Aware Anomaly Detection System</i> <a href="http://arxiv.org/abs/2011.05047v1">url</a></li>
@@ -474,6 +537,7 @@
     <li><i>Domain adaptation techniques for improved cross-domain study of galaxy mergers</i> <a href="http://arxiv.org/abs/2011.03591v1">url</a></li>
     <li><i>Data--driven Image Restoration with Option--driven Learning for Big and Small Astronomical Image Datasets</i> <a href="http://arxiv.org/abs/2011.03696v1">url</a></li>
     <li><i>Approaches to Linear Mixed Effects Models with Sign Constraints</i> <a href="http://arxiv.org/abs/2011.04538v1">url</a></li>
+    <li><i>Towards Semi-Supervised Semantics Understanding from Speech</i> <a href="http://arxiv.org/abs/2011.06195v1">url</a></li>
     <li><i>Implicit bias of gradient-descent: fast convergence rate</i> <a href="http://arxiv.org/abs/2011.06550v1">url</a></li>
     <li><i>Template Controllable keywords-to-text Generation</i> <a href="http://arxiv.org/abs/2011.03722v1">url</a></li>
     <li><i>f-IRL: Inverse Reinforcement Learning via State Marginal Matching</i> <a href="http://arxiv.org/abs/2011.04709v1">url</a></li>
@@ -487,10 +551,12 @@
     <li><i>Neural Architecture Search with an Efficient Multiobjective Evolutionary Framework</i> <a href="http://arxiv.org/abs/2011.04463v1">url</a></li>
     <li><i>Interpretable collaborative data analysis on distributed data</i> <a href="http://arxiv.org/abs/2011.04437v1">url</a></li>
     <li><i>Communication-efficient Decentralized Local SGD over Undirected Networks</i> <a href="http://arxiv.org/abs/2011.03255v1">url</a></li>
+    <li><i>Ecole: A Gym-like Library for Machine Learning in Combinatorial Optimization Solvers</i> <a href="http://arxiv.org/abs/2011.06069v1">url</a></li>
     <li><i>Adapting a Language Model for Controlled Affective Text Generation</i> <a href="http://arxiv.org/abs/2011.04000v1">url</a></li>
     <li><i>GHFP: Gradually Hard Filter Pruning</i> <a href="http://arxiv.org/abs/2011.03170v1">url</a></li>
     <li><i>Channel Pruning via Multi-Criteria based on Weight Dependency</i> <a href="http://arxiv.org/abs/2011.03240v1">url</a></li>
     <li><i>Wasserstein-based fairness interpretability framework for machine learning models</i> <a href="http://arxiv.org/abs/2011.03156v1">url</a></li>
+    <li><i>Continuous Perception for Classifying Shapes and Weights of Garmentsfor Robotic Vision Applications</i> <a href="http://arxiv.org/abs/2011.06089v1">url</a></li>
     <li><i>Reinforcement Learning Experiments and Benchmark for Solving Robotic Reaching Tasks</i> <a href="http://arxiv.org/abs/2011.05782v1">url</a></li>
     <li><i>Generating Image Descriptions via Sequential Cross-Modal Alignment Guided by Human Gaze</i> <a href="http://arxiv.org/abs/2011.04592v1">url</a></li>
     <li><i>Distorted image restoration using stacked adversarial network</i> <a href="http://arxiv.org/abs/2011.05784v1">url</a></li>
@@ -519,14 +585,15 @@
     <li><i>Topological Regularization via Persistence-Sensitive Optimization</i> <a href="http://arxiv.org/abs/2011.05290v1">url</a></li>
     <li><i>FlowCaps: Optical Flow Estimation with Capsule Networks For Action Recognition</i> <a href="http://arxiv.org/abs/2011.03958v1">url</a></li>
     <li><i>Single-Node Attack for Fooling Graph Neural Networks</i> <a href="http://arxiv.org/abs/2011.03574v1">url</a></li>
-    <li><i>Solving Inverse Problems With Deep Neural Networks -- Robustness Included?</i> <a href="http://arxiv.org/abs/2011.04268v1">url</a></li>
     <li><i>Multi-Agent Active Search using Realistic Depth-Aware Noise Model</i> <a href="http://arxiv.org/abs/2011.04825v1">url</a></li>
+    <li><i>Solving Inverse Problems With Deep Neural Networks -- Robustness Included?</i> <a href="http://arxiv.org/abs/2011.04268v1">url</a></li>
     <li><i>Learning a high-dimensional classification rule using auxiliary outcomes</i> <a href="http://arxiv.org/abs/2011.05493v1">url</a></li>
     <li><i>Numerical Exploration of Training Loss Level-Sets in Deep Neural Networks</i> <a href="http://arxiv.org/abs/2011.04189v1">url</a></li>
+    <li><i>A Transfer Learning Framework for Anomaly Detection Using Model of Normality</i> <a href="http://arxiv.org/abs/2011.06210v1">url</a></li>
     <li><i>Distance-Based Anomaly Detection for Industrial Surfaces Using Triplet Networks</i> <a href="http://arxiv.org/abs/2011.04121v1">url</a></li>
     <li><i>Multi-Label Classification Using Link Prediction</i> <a href="http://arxiv.org/abs/2011.05476v1">url</a></li>
-    <li><i>MAGIC: Learning Macro-Actions for Online POMDP Planning using Generator-Critic</i> <a href="http://arxiv.org/abs/2011.03813v1">url</a></li>
     <li><i>A Multi-Plant Disease Diagnosis Method using Convolutional Neural Network</i> <a href="http://arxiv.org/abs/2011.05151v1">url</a></li>
+    <li><i>MAGIC: Learning Macro-Actions for Online POMDP Planning using Generator-Critic</i> <a href="http://arxiv.org/abs/2011.03813v1">url</a></li>
     <li><i>Sinkhorn Natural Gradient for Generative Models</i> <a href="http://arxiv.org/abs/2011.04162v1">url</a></li>
     <li><i>Distributed Sparse SGD with Majority Voting</i> <a href="http://arxiv.org/abs/2011.06495v1">url</a></li>
     <li><i>SALR: Sharpness-aware Learning Rates for Improved Generalization</i> <a href="http://arxiv.org/abs/2011.05348v1">url</a></li>
@@ -538,14 +605,16 @@
     <li><i>Echo Chambers in Collaborative Filtering Based Recommendation Systems</i> <a href="http://arxiv.org/abs/2011.03890v1">url</a></li>
     <li><i>Characterizations of non-normalized discrete probability distributions and their application in statistics</i> <a href="http://arxiv.org/abs/2011.04369v1">url</a></li>
     <li><i>Multi-Agent Decentralized Belief Propagation on Graphs</i> <a href="http://arxiv.org/abs/2011.04501v1">url</a></li>
-    <li><i>Sequential Minimal Optimization for One-Class Slab Support Vector Machine</i> <a href="http://arxiv.org/abs/2011.03243v1">url</a></li>
     <li><i>VCE: Variational Convertor-Encoder for One-Shot Generalization</i> <a href="http://arxiv.org/abs/2011.06246v1">url</a></li>
+    <li><i>Sequential Minimal Optimization for One-Class Slab Support Vector Machine</i> <a href="http://arxiv.org/abs/2011.03243v1">url</a></li>
+    <li><i>Bi-tuning of Pre-trained Representations</i> <a href="http://arxiv.org/abs/2011.06182v1">url</a></li>
     <li><i>End-to-End Chinese Landscape Painting Creation Using Generative Adversarial Networks</i> <a href="http://arxiv.org/abs/2011.05552v1">url</a></li>
     <li><i>Expressiveness of Neural Networks Having Width Equal or Below the Input Dimension</i> <a href="http://arxiv.org/abs/2011.04923v1">url</a></li>
     <li><i>Geometric Structure Aided Visual Inertial Localization</i> <a href="http://arxiv.org/abs/2011.04173v1">url</a></li>
-    <li><i>Predicting special care during the COVID-19 pandemic: A machine learning approach</i> <a href="http://arxiv.org/abs/2011.03143v1">url</a></li>
     <li><i>A deep-learning classifier for cardiac arrhythmias</i> <a href="http://arxiv.org/abs/2011.05471v1">url</a></li>
+    <li><i>Predicting special care during the COVID-19 pandemic: A machine learning approach</i> <a href="http://arxiv.org/abs/2011.03143v1">url</a></li>
     <li><i>Multi-pooled Inception features for no-reference image quality assessment</i> <a href="http://arxiv.org/abs/2011.05139v1">url</a></li>
+    <li><i>Dirichlet Pruning for Neural Network Compression</i> <a href="http://arxiv.org/abs/2011.05985v1">url</a></li>
     <li><i>Distill2Vec: Dynamic Graph Representation Learning with Knowledge Distillation</i> <a href="http://arxiv.org/abs/2011.05664v1">url</a></li>
     <li><i>VStreamDRLS: Dynamic Graph Representation Learning with Self-Attention for Enterprise Distributed Video Streaming Solutions</i> <a href="http://arxiv.org/abs/2011.05671v1">url</a></li>
     <li><i>Dynamic Plane Convolutional Occupancy Networks</i> <a href="http://arxiv.org/abs/2011.05813v1">url</a></li>
@@ -557,13 +626,15 @@
     <li><i>Resource-Constrained Federated Learning with Heterogeneous Labels and Models</i> <a href="http://arxiv.org/abs/2011.03206v1">url</a></li>
     <li><i>Using machine-learning modelling to understand macroscopic dynamics in a system of coupled maps</i> <a href="http://arxiv.org/abs/2011.05803v1">url</a></li>
     <li><i>Quantum algorithms for spectral sums</i> <a href="http://arxiv.org/abs/2011.06475v1">url</a></li>
-    <li><i>E-commerce Query-based Generation based on User Review</i> <a href="http://arxiv.org/abs/2011.05546v1">url</a></li>
     <li><i>Predicting Landsat Reflectance with Deep Generative Fusion</i> <a href="http://arxiv.org/abs/2011.04762v1">url</a></li>
-    <li><i>Noise Conscious Training of Non Local Neural Network powered by Self Attentive Spectral Normalized Markovian Patch GAN for Low Dose CT Denoising</i> <a href="http://arxiv.org/abs/2011.05684v1">url</a></li>
+    <li><i>E-commerce Query-based Generation based on User Review</i> <a href="http://arxiv.org/abs/2011.05546v1">url</a></li>
     <li><i>Translating Similar Languages: Role of Mutual Intelligibility in Multilingual Transformers</i> <a href="http://arxiv.org/abs/2011.05037v1">url</a></li>
+    <li><i>Noise Conscious Training of Non Local Neural Network powered by Self Attentive Spectral Normalized Markovian Patch GAN for Low Dose CT Denoising</i> <a href="http://arxiv.org/abs/2011.05684v1">url</a></li>
     <li><i>Machine learning methods for the detection of polar lows in satellite mosaics: major issues and their solutions</i> <a href="http://arxiv.org/abs/2011.04811v1">url</a></li>
+    <li><i>Anticipatory Navigation in Crowds by Probabilistic Prediction of Pedestrian Future Movements</i> <a href="http://arxiv.org/abs/2011.06235v1">url</a></li>
     <li><i>Towards a quantitative assessment of neurodegeneration in Alzheimer's disease</i> <a href="http://arxiv.org/abs/2011.04465v1">url</a></li>
     <li><i>Mitigating Leakage in Federated Learning with Trusted Hardware</i> <a href="http://arxiv.org/abs/2011.04948v1">url</a></li>
+    <li><i>Evaluating Curriculum Learning Strategies in Neural Combinatorial Optimization</i> <a href="http://arxiv.org/abs/2011.06188v1">url</a></li>
     <li><i>Skin disease diagnosis with deep learning: a review</i> <a href="http://arxiv.org/abs/2011.05627v1">url</a></li>
     <li><i>Semi-supervised Sparse Representation with Graph Regularization for Image Classification</i> <a href="http://arxiv.org/abs/2011.05648v1">url</a></li>
     <li><i>Motion Prediction on Self-driving Cars: A Review</i> <a href="http://arxiv.org/abs/2011.03635v1">url</a></li>
@@ -574,11 +645,11 @@
     <li><i>Maximizing Store Revenues using Tabu Search for Floor Space Optimization</i> <a href="http://arxiv.org/abs/2011.04422v1">url</a></li>
     <li><i>The Value Equivalence Principle for Model-Based Reinforcement Learning</i> <a href="http://arxiv.org/abs/2011.03506v1">url</a></li>
     <li><i>On Polynomial Approximations for Privacy-Preserving and Verifiable ReLU Networks</i> <a href="http://arxiv.org/abs/2011.05530v1">url</a></li>
-    <li><i>Neural Empirical Bayes: Source Distribution Estimation and its Applications to Simulation-Based Inference</i> <a href="http://arxiv.org/abs/2011.05836v1">url</a></li>
     <li><i>DynaVSR: Dynamic Adaptive Blind Video Super-Resolution</i> <a href="http://arxiv.org/abs/2011.04482v1">url</a></li>
+    <li><i>Neural Empirical Bayes: Source Distribution Estimation and its Applications to Simulation-Based Inference</i> <a href="http://arxiv.org/abs/2011.05836v1">url</a></li>
     <li><i>A Data-Driven Machine Learning Approach for Consumer Modeling with Load Disaggregation</i> <a href="http://arxiv.org/abs/2011.03519v1">url</a></li>
-    <li><i>MinkLoc3D: Point Cloud Based Large-Scale Place Recognition</i> <a href="http://arxiv.org/abs/2011.04530v1">url</a></li>
     <li><i>Understanding the hand-gestures using Convolutional Neural Networks and Generative Adversial Networks</i> <a href="http://arxiv.org/abs/2011.04860v1">url</a></li>
+    <li><i>MinkLoc3D: Point Cloud Based Large-Scale Place Recognition</i> <a href="http://arxiv.org/abs/2011.04530v1">url</a></li>
     <li><i>Invariant Deep Compressible Covariance Pooling for Aerial Scene Categorization</i> <a href="http://arxiv.org/abs/2011.05702v1">url</a></li>
     <li><i>MAGNeto: An Efficient Deep Learning Method for the Extractive Tags Summarization Problem</i> <a href="http://arxiv.org/abs/2011.04349v1">url</a></li>
     <li><i>On the Practical Ability of Recurrent Neural Networks to Recognize Hierarchical Languages</i> <a href="http://arxiv.org/abs/2011.03965v1">url</a></li>
@@ -587,56 +658,124 @@
     <li><i>Hierarchical reinforcement learning for efficient exploration and transfer</i> <a href="http://arxiv.org/abs/2011.06335v1">url</a></li>
     <li><i>An improved helmet detection method for YOLOv3 on an unbalanced dataset</i> <a href="http://arxiv.org/abs/2011.04214v1">url</a></li>
     <li><i>A deep Q-Learning based Path Planning and Navigation System for Firefighting Environments</i> <a href="http://arxiv.org/abs/2011.06450v1">url</a></li>
-    <li><i>Autonomous Intruder Detection Using a ROS-Based Multi-Robot System Equipped with 2D-LiDAR Sensors</i> <a href="http://arxiv.org/abs/2011.03838v1">url</a></li>
     <li><i>Noise2Sim -- Similarity-based Self-Learning for Image Denoising</i> <a href="http://arxiv.org/abs/2011.03384v1">url</a></li>
+    <li><i>Autonomous Intruder Detection Using a ROS-Based Multi-Robot System Equipped with 2D-LiDAR Sensors</i> <a href="http://arxiv.org/abs/2011.03838v1">url</a></li>
     <li><i>Ensembled CTR Prediction via Knowledge Distillation</i> <a href="http://arxiv.org/abs/2011.04106v1">url</a></li>
     <li><i>Learning from THEODORE: A Synthetic Omnidirectional Top-View Indoor Dataset for Deep Transfer Learning</i> <a href="http://arxiv.org/abs/2011.05719v1">url</a></li>
     <li><i>Hardness of Approximation of Euclidean $k$-Median</i> <a href="http://arxiv.org/abs/2011.04221v1">url</a></li>
-    <li><i>Goal-driven Command Recommendations for Analysts</i> <a href="http://arxiv.org/abs/2011.06237v1">url</a></li>
     <li><i>Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion</i> <a href="http://arxiv.org/abs/2011.05816v1">url</a></li>
+    <li><i>Goal-driven Command Recommendations for Analysts</i> <a href="http://arxiv.org/abs/2011.06237v1">url</a></li>
     <li><i>Self-supervised Graph Representation Learning via Bootstrapping</i> <a href="http://arxiv.org/abs/2011.05126v1">url</a></li>
     <li><i>On-Device Language Identification of Text in Images using Diacritic Characters</i> <a href="http://arxiv.org/abs/2011.05108v1">url</a></li>
     <li><i>HDR Imaging with Quanta Image Sensors: Theoretical Limits and Optimal Reconstruction</i> <a href="http://arxiv.org/abs/2011.03614v1">url</a></li>
     <li><i>Perturbation-based exploration methods in deep reinforcement learning</i> <a href="http://arxiv.org/abs/2011.05446v1">url</a></li>
-    <li><i>Spectral clustering on spherical coordinates under the degree-corrected stochastic blockmodel</i> <a href="http://arxiv.org/abs/2011.04558v1">url</a></li>
-    <li><i>SplitEasy: A Practical Approach for Training ML models on Mobile Devices in a split second</i> <a href="http://arxiv.org/abs/2011.04232v1">url</a></li>
-    <li><i>Performative Prediction in a Stateful World</i> <a href="http://arxiv.org/abs/2011.03885v1">url</a></li>
-    <li><i>Deep Transfer Learning for Automated Diagnosis of Skin Lesions from Photographs</i> <a href="http://arxiv.org/abs/2011.04475v1">url</a></li>
     <li><i>Learning to Personalize Treatments When Agents Are Strategic</i> <a href="http://arxiv.org/abs/2011.06528v1">url</a></li>
+    <li><i>Deep Transfer Learning for Automated Diagnosis of Skin Lesions from Photographs</i> <a href="http://arxiv.org/abs/2011.04475v1">url</a></li>
+    <li><i>Performative Prediction in a Stateful World</i> <a href="http://arxiv.org/abs/2011.03885v1">url</a></li>
+    <li><i>SplitEasy: A Practical Approach for Training ML models on Mobile Devices in a split second</i> <a href="http://arxiv.org/abs/2011.04232v1">url</a></li>
+    <li><i>Spectral clustering on spherical coordinates under the degree-corrected stochastic blockmodel</i> <a href="http://arxiv.org/abs/2011.04558v1">url</a></li>
     <li><i>Google Trends Analysis of COVID-19</i> <a href="http://arxiv.org/abs/2011.03847v1">url</a></li>
     <li><i>Ridge Regression with Frequent Directions: Statistical and Optimization Perspectives</i> <a href="http://arxiv.org/abs/2011.03607v1">url</a></li>
     <li><i>SeasonDepth: Cross-Season Monocular Depth Prediction Dataset and Benchmark under Multiple Environments</i> <a href="http://arxiv.org/abs/2011.04408v1">url</a></li>
     <li><i>WaDeNet: Wavelet Decomposition based CNN for Speech Processing</i> <a href="http://arxiv.org/abs/2011.05594v1">url</a></li>
     <li><i>Scribble-Supervised Semantic Segmentation by Random Walk on Neural Representation and Self-Supervision on Neural Eigenspa</i> <a href="http://arxiv.org/abs/2011.05621v1">url</a></li>
+    <li><i>Generalized LSTM-based End-to-End Text-Independent Speaker Verification</i> <a href="http://arxiv.org/abs/2011.04896v1">url</a></li>
     <li><i>Decentralized Motion Planning for Multi-Robot Navigation using Deep Reinforcement Learning</i> <a href="http://arxiv.org/abs/2011.05605v1">url</a></li>
     <li><i>Higher-Order Spectral Clustering of Directed Graphs</i> <a href="http://arxiv.org/abs/2011.05080v1">url</a></li>
-    <li><i>Generalized LSTM-based End-to-End Text-Independent Speaker Verification</i> <a href="http://arxiv.org/abs/2011.04896v1">url</a></li>
     <li><i>Improved Soccer Action Spotting using both Audio and Video Streams</i> <a href="http://arxiv.org/abs/2011.04258v1">url</a></li>
     <li><i>LittleYOLO-SPP: A Delicate Real-Time Vehicle Detection Algorithm</i> <a href="http://arxiv.org/abs/2011.05940v1">url</a></li>
-    <li><i>Classification of optics-free images with deep neural networks</i> <a href="http://arxiv.org/abs/2011.05132v1">url</a></li>
     <li><i>After All, Only The Last Neuron Matters: Comparing Multi-modal Fusion Functions for Scene Graph Generation</i> <a href="http://arxiv.org/abs/2011.04779v1">url</a></li>
+    <li><i>Classification of optics-free images with deep neural networks</i> <a href="http://arxiv.org/abs/2011.05132v1">url</a></li>
     <li><i>Transferred Fusion Learning using Skipped Networks</i> <a href="http://arxiv.org/abs/2011.05895v1">url</a></li>
-    <li><i>Where to drive: free space detection with one fisheye camera</i> <a href="http://arxiv.org/abs/2011.05822v1">url</a></li>
     <li><i>A CNN-based Feature Space for Semi-supervised Incremental Learning in Assisted Living Applications</i> <a href="http://arxiv.org/abs/2011.05734v1">url</a></li>
     <li><i>An ensemble-based approach by fine-tuning the deep transfer learning models to classify pneumonia from chest X-ray images</i> <a href="http://arxiv.org/abs/2011.05543v1">url</a></li>
     <li><i>Dense U-net for super-resolution with shuffle pooling layer</i> <a href="http://arxiv.org/abs/2011.05490v1">url</a></li>
-    <li><i>Leveraging an Efficient and Semantic Location Embedding to Seek New Ports of Bike Share Services</i> <a href="http://arxiv.org/abs/2011.03158v1">url</a></li>
+    <li><i>Where to drive: free space detection with one fisheye camera</i> <a href="http://arxiv.org/abs/2011.05822v1">url</a></li>
+    <li><i>GRCNN: Graph Recognition Convolutional Neural Network for Synthesizing Programs from Flow Charts</i> <a href="http://arxiv.org/abs/2011.05980v1">url</a></li>
+    <li><i>A decision-making tool to fine-tune abnormal levels in the complete blood count tests</i> <a href="http://arxiv.org/abs/2011.05900v1">url</a></li>
+    <li><i>Matrix Completion with Noise via Leveraged Sampling</i> <a href="http://arxiv.org/abs/2011.05885v1">url</a></li>
+    <li><i>DeepI2I: Enabling Deep Hierarchical Image-to-Image Translation by Transferring from GANs</i> <a href="http://arxiv.org/abs/2011.05867v1">url</a></li>
+    <li><i>End-To-End Semi-supervised Learning for Differentiable Particle Filters</i> <a href="http://arxiv.org/abs/2011.05748v1">url</a></li>
+    <li><i>Atrial Fibrillation Detection and ECG Classification based on CNN-BiLSTM</i> <a href="http://arxiv.org/abs/2011.06187v1">url</a></li>
+    <li><i>When deep learning models on GPU can be accelerated by taking advantage of unstructured sparsity</i> <a href="http://arxiv.org/abs/2011.06295v1">url</a></li>
     <li><i>Towards Obfuscated Malware Detection for Low Powered IoT Devices</i> <a href="http://arxiv.org/abs/2011.03476v1">url</a></li>
-    <li><i>Massively Parallel Graph Drawing and Representation Learning</i> <a href="http://arxiv.org/abs/2011.03479v1">url</a></li>
-    <li><i>Deep Cross-modal Proxy Hashing</i> <a href="http://arxiv.org/abs/2011.03451v1">url</a></li>
     <li><i>Statistical analysis of Wasserstein GANs with applications to time series forecasting</i> <a href="http://arxiv.org/abs/2011.03074v1">url</a></li>
-    <li><i>FDNAS: Improving Data Privacy and Model Diversity in AutoML</i> <a href="http://arxiv.org/abs/2011.03372v1">url</a></li>
-    <li><i>Domain Adaptive Person Re-Identification via Coupling Optimization</i> <a href="http://arxiv.org/abs/2011.03363v1">url</a></li>
-    <li><i>Self Supervised Learning for Object Localisation in 3D Tomographic Images</i> <a href="http://arxiv.org/abs/2011.03353v1">url</a></li>
-    <li><i>Fault Location Estimation by Using Machine Learning Methods in Mixed Transmission Lines</i> <a href="http://arxiv.org/abs/2011.03238v1">url</a></li>
-    <li><i>Efficient image retrieval using multi neural hash codes and bloom filters</i> <a href="http://arxiv.org/abs/2011.03234v1">url</a></li>
-    <li><i>Learning a Geometric Representation for Data-Efficient Depth Estimation via Gradient Field and Contrastive Loss</i> <a href="http://arxiv.org/abs/2011.03207v1">url</a></li>
-    <li><i>Explainable AI meets Healthcare: A Study on Heart Disease Dataset</i> <a href="http://arxiv.org/abs/2011.03195v1">url</a></li>
+    <li><i>Leveraging an Efficient and Semantic Location Embedding to Seek New Ports of Bike Share Services</i> <a href="http://arxiv.org/abs/2011.03158v1">url</a></li>
     <li><i>Learning Power Control for Cellular Systems with Heterogeneous Graph Neural Network</i> <a href="http://arxiv.org/abs/2011.03164v1">url</a></li>
     <li><i>ULSD: Unified Line Segment Detection across Pinhole, Fisheye, and Spherical Cameras</i> <a href="http://arxiv.org/abs/2011.03174v1">url</a></li>
-    <li><i>A survey on practical adversarial examples for malware classifiers</i> <a href="http://arxiv.org/abs/2011.05973v1">url</a></li>
+    <li><i>Explainable AI meets Healthcare: A Study on Heart Disease Dataset</i> <a href="http://arxiv.org/abs/2011.03195v1">url</a></li>
+    <li><i>Learning a Geometric Representation for Data-Efficient Depth Estimation via Gradient Field and Contrastive Loss</i> <a href="http://arxiv.org/abs/2011.03207v1">url</a></li>
+    <li><i>Efficient image retrieval using multi neural hash codes and bloom filters</i> <a href="http://arxiv.org/abs/2011.03234v1">url</a></li>
+    <li><i>Fault Location Estimation by Using Machine Learning Methods in Mixed Transmission Lines</i> <a href="http://arxiv.org/abs/2011.03238v1">url</a></li>
+    <li><i>Self Supervised Learning for Object Localisation in 3D Tomographic Images</i> <a href="http://arxiv.org/abs/2011.03353v1">url</a></li>
+    <li><i>Domain Adaptive Person Re-Identification via Coupling Optimization</i> <a href="http://arxiv.org/abs/2011.03363v1">url</a></li>
+    <li><i>FDNAS: Improving Data Privacy and Model Diversity in AutoML</i> <a href="http://arxiv.org/abs/2011.03372v1">url</a></li>
+    <li><i>Deep Cross-modal Proxy Hashing</i> <a href="http://arxiv.org/abs/2011.03451v1">url</a></li>
+    <li><i>Massively Parallel Graph Drawing and Representation Learning</i> <a href="http://arxiv.org/abs/2011.03479v1">url</a></li>
+    <li><i>Multi-View Dynamic Heterogeneous Information Network Embedding</i> <a href="http://arxiv.org/abs/2011.06346v1">url</a></li>
+    <li><i>Automated Model Compression by Jointly Applied Pruning and Quantization</i> <a href="http://arxiv.org/abs/2011.06231v1">url</a></li>
+    <li><i>Adding Knowledge to Unsupervised Algorithms for the Recognition of Intent</i> <a href="http://arxiv.org/abs/2011.06219v1">url</a></li>
+    <li><i>Gaussian RAM: Lightweight Image Classification via Stochastic Retina-Inspired Glimpse and Reinforcement Learning</i> <a href="http://arxiv.org/abs/2011.06190v1">url</a></li>
+    <li><i>Sim-To-Real Transfer for Miniature Autonomous Car Racing</i> <a href="http://arxiv.org/abs/2011.05617v1">url</a></li>
+    <li><i>Optimizing Large-Scale Fleet Management on a Road Network using Multi-Agent Deep Reinforcement Learning with Graph Neural Network</i> <a href="http://arxiv.org/abs/2011.06175v1">url</a></li>
+    <li><i>I-POST: Intelligent Point of Sale and Transaction System</i> <a href="http://arxiv.org/abs/2011.06144v1">url</a></li>
+    <li><i>Clustering of Big Data with Mixed Features</i> <a href="http://arxiv.org/abs/2011.06043v1">url</a></li>
+    <li><i>Statistical learning for change point and anomaly detection in graphs</i> <a href="http://arxiv.org/abs/2011.06080v1">url</a></li>
     <li><i>Hierarchical Prosody Modeling for Non-Autoregressive Speech Synthesis</i> <a href="http://arxiv.org/abs/2011.06465v1">url</a></li>
-    <li><i>MUSE: Illustrating Textual Attributes by Portrait Generation</i> <a href="http://arxiv.org/abs/2011.04761v1">url</a></li>
+    <li><i>Heterogeneous Data-Aware Federated Learning</i> <a href="http://arxiv.org/abs/2011.06393v1">url</a></li>
+    <li><i>Using IPA-Based Tacotron for Data Efficient Cross-Lingual Speaker Adaptation and Pronunciation Enhancement</i> <a href="http://arxiv.org/abs/2011.06392v1">url</a></li>
+    <li><i>Online Influence Maximization under Linear Threshold Model</i> <a href="http://arxiv.org/abs/2011.06378v1">url</a></li>
+    <li><i>Efficient Neural Architecture Search for End-to-end Speech Recognition via Straight-Through Gradients</i> <a href="http://arxiv.org/abs/2011.05649v1">url</a></li>
+    <li><i>Improving Prosody Modelling with Cross-Utterance BERT Embeddings for End-to-end Speech Synthesis</i> <a href="http://arxiv.org/abs/2011.05161v1">url</a></li>
+    <li><i>A Novel Privacy-Preserved Recommender System Framework based on Federated Learning</i> <a href="http://arxiv.org/abs/2011.05614v1">url</a></li>
+    <li><i>TB-Net: A Three-Stream Boundary-Aware Network for Fine-Grained Pavement Disease Segmentation</i> <a href="http://arxiv.org/abs/2011.03703v1">url</a></li>
+    <li><i>A Strong Baseline for Crowd Counting and Unsupervised People Localization</i> <a href="http://arxiv.org/abs/2011.03725v1">url</a></li>
+    <li><i>On the Privacy Risks of Algorithmic Fairness</i> <a href="http://arxiv.org/abs/2011.03731v1">url</a></li>
+    <li><i>Machine learning applications to DNA subsequence and restriction site analysis</i> <a href="http://arxiv.org/abs/2011.03544v1">url</a></li>
+    <li><i>Deep Learning Analysis and Age Prediction from Shoeprints</i> <a href="http://arxiv.org/abs/2011.03794v1">url</a></li>
+    <li><i>A fast randomized incremental gradient method for decentralized non-convex optimization</i> <a href="http://arxiv.org/abs/2011.03853v1">url</a></li>
+    <li><i>Extending the statistical software package Engine for Likelihood-Free Inference</i> <a href="http://arxiv.org/abs/2011.03977v1">url</a></li>
+    <li><i>Learning-based 3D Occupancy Prediction for Autonomous Navigation in Occluded Environments</i> <a href="http://arxiv.org/abs/2011.03981v1">url</a></li>
+    <li><i>Predictive Analysis of Diabetic Retinopathy with Transfer Learning</i> <a href="http://arxiv.org/abs/2011.04052v1">url</a></li>
+    <li><i>Fourier-based and Rational Graph Filters for Spectral Processing</i> <a href="http://arxiv.org/abs/2011.04055v1">url</a></li>
+    <li><i>Analysis of Dimensional Influence of Convolutional Neural Networks for Histopathological Cancer Classification</i> <a href="http://arxiv.org/abs/2011.04057v1">url</a></li>
+    <li><i>An HVS-Oriented Saliency Map Prediction Modeling</i> <a href="http://arxiv.org/abs/2011.04076v1">url</a></li>
+    <li><i>An Embedded Model Estimator for Non-Stationary Random Functions using Multiple Secondary Variables</i> <a href="http://arxiv.org/abs/2011.04116v1">url</a></li>
+    <li><i>Near-Optimal Learning of Tree-Structured Distributions by Chow-Liu</i> <a href="http://arxiv.org/abs/2011.04144v1">url</a></li>
+    <li><i>Robust Batch Policy Learning in Markov Decision Processes</i> <a href="http://arxiv.org/abs/2011.04185v1">url</a></li>
+    <li><i>Mitigating Bias in Set Selection with Noisy Protected Attributes</i> <a href="http://arxiv.org/abs/2011.04219v1">url</a></li>
+    <li><i>End-to-end Lane Shape Prediction with Transformers</i> <a href="http://arxiv.org/abs/2011.04233v1">url</a></li>
+    <li><i>Real-time object detection method based on improved YOLOv4-tiny</i> <a href="http://arxiv.org/abs/2011.04244v1">url</a></li>
+    <li><i>Enhanced Few-shot Learning for Intrusion Detection in Railway Video Surveillance</i> <a href="http://arxiv.org/abs/2011.04254v1">url</a></li>
+    <li><i>Sketch-Inspector: a Deep Mixture Model for High-Quality Sketch Generation of Cats</i> <a href="http://arxiv.org/abs/2011.04280v1">url</a></li>
+    <li><i>EfficientPose -- An efficient, accurate and scalable end-to-end 6D multi object pose estimation approach</i> <a href="http://arxiv.org/abs/2011.04307v1">url</a></li>
+    <li><i>Reinforced Deep Markov Models With Applications in Automatic Trading</i> <a href="http://arxiv.org/abs/2011.04391v1">url</a></li>
+    <li><i>Bangla Text Classification using Transformers</i> <a href="http://arxiv.org/abs/2011.04446v1">url</a></li>
+    <li><i>Fast Hybrid Cascade for Voxel-based 3D Object Classification</i> <a href="http://arxiv.org/abs/2011.04522v1">url</a></li>
+    <li><i>Masked Face Image Classification with Sparse Representation based on Majority Voting Mechanism</i> <a href="http://arxiv.org/abs/2011.04556v1">url</a></li>
+    <li><i>TrimTuner: Efficient Optimization of Machine Learning Jobs in the Cloud via Sub-Sampling</i> <a href="http://arxiv.org/abs/2011.04726v1">url</a></li>
+    <li><i>Real-time Locational Marginal Price Forecasting Using Generative Adversarial Network</i> <a href="http://arxiv.org/abs/2011.04717v1">url</a></li>
+    <li><i>Application and Comparison of Deep Learning Methods in the Prediction of RNA Sequence Degradation and Stability</i> <a href="http://arxiv.org/abs/2011.05136v1">url</a></li>
+    <li><i>EPSR: Edge Profile Super resolution</i> <a href="http://arxiv.org/abs/2011.05308v1">url</a></li>
+    <li><i>Stratification of Systemic Lupus Erythematosus Patients Using Gene Expression Data to Reveal Expression of Distinct Immune Pathways</i> <a href="http://arxiv.org/abs/2011.05143v1">url</a></li>
+    <li><i>Coarse- and Fine-grained Attention Network with Background-aware Loss for Crowd Density Map Estimation</i> <a href="http://arxiv.org/abs/2011.03721v1">url</a></li>
+    <li><i>When Optimizing $f$-divergence is Robust with Label Noise</i> <a href="http://arxiv.org/abs/2011.03687v1">url</a></li>
+    <li><i>Accounting for Human Learning when Inferring Human Preferences</i> <a href="http://arxiv.org/abs/2011.05596v1">url</a></li>
+    <li><i>Identifying Mislabeled Images in Supervised Learning Utilizing Autoencoder</i> <a href="http://arxiv.org/abs/2011.03667v1">url</a></li>
+    <li><i>Recognizing More Emotions with Less Data Using Self-supervised Transfer Learning</i> <a href="http://arxiv.org/abs/2011.05585v1">url</a></li>
+    <li><i>Proximal Policy Optimization via Enhanced Exploration Efficiency</i> <a href="http://arxiv.org/abs/2011.05525v1">url</a></li>
+    <li><i>Optimized Loss Functions for Object detection and Application on Nighttime Vehicle Detection</i> <a href="http://arxiv.org/abs/2011.05523v1">url</a></li>
+    <li><i>A Quantum-Inspired Probabilistic Model for the Inverse Design of Meta-Structures</i> <a href="http://arxiv.org/abs/2011.05511v1">url</a></li>
+    <li><i>Deep Learning Derived Histopathology Image Score for Increasing Phase 3 Clinical Trial Probability of Success</i> <a href="http://arxiv.org/abs/2011.05406v1">url</a></li>
+    <li><i>Small Survey Event Detection</i> <a href="http://arxiv.org/abs/2011.05801v1">url</a></li>
+    <li><i>The Potential of Machine Learning and NLP for Handling Students' Feedback (A Short Survey)</i> <a href="http://arxiv.org/abs/2011.05806v1">url</a></li>
+    <li><i>A survey on practical adversarial examples for malware classifiers</i> <a href="http://arxiv.org/abs/2011.05973v1">url</a></li>
+    <li><i>Principles of Stochastic Computing: Fundamental Concepts and Applications</i> <a href="http://arxiv.org/abs/2011.05153v1">url</a></li>
+    <li><i>Node Attribute Completion in Knowledge Graphs with Multi-Relational Propagation</i> <a href="http://arxiv.org/abs/2011.05301v1">url</a></li>
+    <li><i>A Systematic Comparison of Encrypted Machine Learning Solutions for Image Classification</i> <a href="http://arxiv.org/abs/2011.05296v1">url</a></li>
+    <li><i>Explainable Knowledge Tracing Models for Big Data: Is Ensembling an Answer?</i> <a href="http://arxiv.org/abs/2011.05285v1">url</a></li>
+    <li><i>UmBERTo-MTSA @ AcCompl-It: Improving Complexity and Acceptability Prediction with Multi-task Learning on Self-Supervised Annotations</i> <a href="http://arxiv.org/abs/2011.05197v1">url</a></li>
+    <li><i>MotePy: A domain specific language for low-overhead machine learning and data processing</i> <a href="http://arxiv.org/abs/2011.05194v1">url</a></li>
     <li><i>Feedback-Based Dynamic Feature Selection for Constrained Continuous Data Acquisition</i> <a href="http://arxiv.org/abs/2011.05112v1">url</a></li>
     <li><i>Traffic congestion and travel time prediction based on historical congestion maps and identification of consensual days</i> <a href="http://arxiv.org/abs/2011.05073v1">url</a></li>
     <li><i>Distributed Learning with Low Communication Cost via Gradient Boosting Untrained Neural Network</i> <a href="http://arxiv.org/abs/2011.05022v1">url</a></li>
@@ -644,74 +783,14 @@
     <li><i>Unsupervised Contrastive Photo-to-Caricature Translation based on Auto-distortion</i> <a href="http://arxiv.org/abs/2011.04965v1">url</a></li>
     <li><i>Stage-wise Channel Pruning for Model Compression</i> <a href="http://arxiv.org/abs/2011.04908v1">url</a></li>
     <li><i>Dynamic Relay Selection and Power Allocation for Minimizing Outage Probability: A Hierarchical Reinforcement Learning Approach</i> <a href="http://arxiv.org/abs/2011.04891v1">url</a></li>
-    <li><i>TrimTuner: Efficient Optimization of Machine Learning Jobs in the Cloud via Sub-Sampling</i> <a href="http://arxiv.org/abs/2011.04726v1">url</a></li>
-    <li><i>UmBERTo-MTSA @ AcCompl-It: Improving Complexity and Acceptability Prediction with Multi-task Learning on Self-Supervised Annotations</i> <a href="http://arxiv.org/abs/2011.05197v1">url</a></li>
-    <li><i>Real-time Locational Marginal Price Forecasting Using Generative Adversarial Network</i> <a href="http://arxiv.org/abs/2011.04717v1">url</a></li>
-    <li><i>Application and Comparison of Deep Learning Methods in the Prediction of RNA Sequence Degradation and Stability</i> <a href="http://arxiv.org/abs/2011.05136v1">url</a></li>
-    <li><i>EPSR: Edge Profile Super resolution</i> <a href="http://arxiv.org/abs/2011.05308v1">url</a></li>
-    <li><i>Stratification of Systemic Lupus Erythematosus Patients Using Gene Expression Data to Reveal Expression of Distinct Immune Pathways</i> <a href="http://arxiv.org/abs/2011.05143v1">url</a></li>
-    <li><i>Principles of Stochastic Computing: Fundamental Concepts and Applications</i> <a href="http://arxiv.org/abs/2011.05153v1">url</a></li>
-    <li><i>Improving Prosody Modelling with Cross-Utterance BERT Embeddings for End-to-end Speech Synthesis</i> <a href="http://arxiv.org/abs/2011.05161v1">url</a></li>
-    <li><i>When deep learning models on GPU can be accelerated by taking advantage of unstructured sparsity</i> <a href="http://arxiv.org/abs/2011.06295v1">url</a></li>
-    <li><i>MotePy: A domain specific language for low-overhead machine learning and data processing</i> <a href="http://arxiv.org/abs/2011.05194v1">url</a></li>
-    <li><i>Explainable Knowledge Tracing Models for Big Data: Is Ensembling an Answer?</i> <a href="http://arxiv.org/abs/2011.05285v1">url</a></li>
-    <li><i>Heterogeneous Data-Aware Federated Learning</i> <a href="http://arxiv.org/abs/2011.06393v1">url</a></li>
-    <li><i>A Novel Privacy-Preserved Recommender System Framework based on Federated Learning</i> <a href="http://arxiv.org/abs/2011.05614v1">url</a></li>
-    <li><i>Small Survey Event Detection</i> <a href="http://arxiv.org/abs/2011.05801v1">url</a></li>
-    <li><i>Deep Learning Derived Histopathology Image Score for Increasing Phase 3 Clinical Trial Probability of Success</i> <a href="http://arxiv.org/abs/2011.05406v1">url</a></li>
-    <li><i>A Quantum-Inspired Probabilistic Model for the Inverse Design of Meta-Structures</i> <a href="http://arxiv.org/abs/2011.05511v1">url</a></li>
-    <li><i>Optimized Loss Functions for Object detection and Application on Nighttime Vehicle Detection</i> <a href="http://arxiv.org/abs/2011.05523v1">url</a></li>
-    <li><i>Proximal Policy Optimization via Enhanced Exploration Efficiency</i> <a href="http://arxiv.org/abs/2011.05525v1">url</a></li>
-    <li><i>Recognizing More Emotions with Less Data Using Self-supervised Transfer Learning</i> <a href="http://arxiv.org/abs/2011.05585v1">url</a></li>
-    <li><i>Accounting for Human Learning when Inferring Human Preferences</i> <a href="http://arxiv.org/abs/2011.05596v1">url</a></li>
-    <li><i>Sim-To-Real Transfer for Miniature Autonomous Car Racing</i> <a href="http://arxiv.org/abs/2011.05617v1">url</a></li>
-    <li><i>A Systematic Comparison of Encrypted Machine Learning Solutions for Image Classification</i> <a href="http://arxiv.org/abs/2011.05296v1">url</a></li>
-    <li><i>Efficient Neural Architecture Search for End-to-end Speech Recognition via Straight-Through Gradients</i> <a href="http://arxiv.org/abs/2011.05649v1">url</a></li>
-    <li><i>End-To-End Semi-supervised Learning for Differentiable Particle Filters</i> <a href="http://arxiv.org/abs/2011.05748v1">url</a></li>
-    <li><i>DeepI2I: Enabling Deep Hierarchical Image-to-Image Translation by Transferring from GANs</i> <a href="http://arxiv.org/abs/2011.05867v1">url</a></li>
-    <li><i>Matrix Completion with Noise via Leveraged Sampling</i> <a href="http://arxiv.org/abs/2011.05885v1">url</a></li>
-    <li><i>A decision-making tool to fine-tune abnormal levels in the complete blood count tests</i> <a href="http://arxiv.org/abs/2011.05900v1">url</a></li>
-    <li><i>GRCNN: Graph Recognition Convolutional Neural Network for Synthesizing Programs from Flow Charts</i> <a href="http://arxiv.org/abs/2011.05980v1">url</a></li>
-    <li><i>Node Attribute Completion in Knowledge Graphs with Multi-Relational Propagation</i> <a href="http://arxiv.org/abs/2011.05301v1">url</a></li>
-    <li><i>Multi-View Dynamic Heterogeneous Information Network Embedding</i> <a href="http://arxiv.org/abs/2011.06346v1">url</a></li>
-    <li><i>The Potential of Machine Learning and NLP for Handling Students' Feedback (A Short Survey)</i> <a href="http://arxiv.org/abs/2011.05806v1">url</a></li>
-    <li><i>Masked Face Image Classification with Sparse Representation based on Majority Voting Mechanism</i> <a href="http://arxiv.org/abs/2011.04556v1">url</a></li>
-    <li><i>A Reinforcement Learning Approach to the Orienteering Problem with Time Windows</i> <a href="http://arxiv.org/abs/2011.03647v1">url</a></li>
-    <li><i>Machine learning applications to DNA subsequence and restriction site analysis</i> <a href="http://arxiv.org/abs/2011.03544v1">url</a></li>
-    <li><i>On the Privacy Risks of Algorithmic Fairness</i> <a href="http://arxiv.org/abs/2011.03731v1">url</a></li>
-    <li><i>A Strong Baseline for Crowd Counting and Unsupervised People Localization</i> <a href="http://arxiv.org/abs/2011.03725v1">url</a></li>
-    <li><i>Coarse- and Fine-grained Attention Network with Background-aware Loss for Crowd Density Map Estimation</i> <a href="http://arxiv.org/abs/2011.03721v1">url</a></li>
-    <li><i>TB-Net: A Three-Stream Boundary-Aware Network for Fine-Grained Pavement Disease Segmentation</i> <a href="http://arxiv.org/abs/2011.03703v1">url</a></li>
-    <li><i>When Optimizing $f$-divergence is Robust with Label Noise</i> <a href="http://arxiv.org/abs/2011.03687v1">url</a></li>
-    <li><i>Identifying Mislabeled Images in Supervised Learning Utilizing Autoencoder</i> <a href="http://arxiv.org/abs/2011.03667v1">url</a></li>
-    <li><i>Efficient Robust Watermarking Based on Quaternion Singular Value Decomposition and Coefficient Pair Selection</i> <a href="http://arxiv.org/abs/2011.03631v1">url</a></li>
-    <li><i>Fast Hybrid Cascade for Voxel-based 3D Object Classification</i> <a href="http://arxiv.org/abs/2011.04522v1">url</a></li>
-    <li><i>Single and Multi-Agent Deep Reinforcement Learning for AI-Enabled Wireless Networks: A Tutorial</i> <a href="http://arxiv.org/abs/2011.03615v1">url</a></li>
-    <li><i>Deep Learning for Flight Demand and Delays Forecasting</i> <a href="http://arxiv.org/abs/2011.04476v1">url</a></li>
-    <li><i>Runtime Performances Benchmark for Knowledge Graph Embedding Methods</i> <a href="http://arxiv.org/abs/2011.04275v1">url</a></li>
-    <li><i>Playing optical tweezers with deep reinforcement learning: in virtual, physical and augmented environments</i> <a href="http://arxiv.org/abs/2011.04424v1">url</a></li>
+    <li><i>MUSE: Illustrating Textual Attributes by Portrait Generation</i> <a href="http://arxiv.org/abs/2011.04761v1">url</a></li>
     <li><i>Geometry Perspective Of Estimating Learning Capability Of Neural Networks</i> <a href="http://arxiv.org/abs/2011.04588v1">url</a></li>
-    <li><i>Online Influence Maximization under Linear Threshold Model</i> <a href="http://arxiv.org/abs/2011.06378v1">url</a></li>
-    <li><i>Using IPA-Based Tacotron for Data Efficient Cross-Lingual Speaker Adaptation and Pronunciation Enhancement</i> <a href="http://arxiv.org/abs/2011.06392v1">url</a></li>
-    <li><i>Deep Learning Analysis and Age Prediction from Shoeprints</i> <a href="http://arxiv.org/abs/2011.03794v1">url</a></li>
-    <li><i>A fast randomized incremental gradient method for decentralized non-convex optimization</i> <a href="http://arxiv.org/abs/2011.03853v1">url</a></li>
-    <li><i>Extending the statistical software package Engine for Likelihood-Free Inference</i> <a href="http://arxiv.org/abs/2011.03977v1">url</a></li>
-    <li><i>Learning-based 3D Occupancy Prediction for Autonomous Navigation in Occluded Environments</i> <a href="http://arxiv.org/abs/2011.03981v1">url</a></li>
-    <li><i>Bangla Text Classification using Transformers</i> <a href="http://arxiv.org/abs/2011.04446v1">url</a></li>
-    <li><i>Reinforced Deep Markov Models With Applications in Automatic Trading</i> <a href="http://arxiv.org/abs/2011.04391v1">url</a></li>
-    <li><i>EfficientPose -- An efficient, accurate and scalable end-to-end 6D multi object pose estimation approach</i> <a href="http://arxiv.org/abs/2011.04307v1">url</a></li>
-    <li><i>Sketch-Inspector: a Deep Mixture Model for High-Quality Sketch Generation of Cats</i> <a href="http://arxiv.org/abs/2011.04280v1">url</a></li>
-    <li><i>Enhanced Few-shot Learning for Intrusion Detection in Railway Video Surveillance</i> <a href="http://arxiv.org/abs/2011.04254v1">url</a></li>
-    <li><i>Real-time object detection method based on improved YOLOv4-tiny</i> <a href="http://arxiv.org/abs/2011.04244v1">url</a></li>
-    <li><i>End-to-end Lane Shape Prediction with Transformers</i> <a href="http://arxiv.org/abs/2011.04233v1">url</a></li>
-    <li><i>Mitigating Bias in Set Selection with Noisy Protected Attributes</i> <a href="http://arxiv.org/abs/2011.04219v1">url</a></li>
-    <li><i>Robust Batch Policy Learning in Markov Decision Processes</i> <a href="http://arxiv.org/abs/2011.04185v1">url</a></li>
-    <li><i>Near-Optimal Learning of Tree-Structured Distributions by Chow-Liu</i> <a href="http://arxiv.org/abs/2011.04144v1">url</a></li>
-    <li><i>An Embedded Model Estimator for Non-Stationary Random Functions using Multiple Secondary Variables</i> <a href="http://arxiv.org/abs/2011.04116v1">url</a></li>
-    <li><i>An HVS-Oriented Saliency Map Prediction Modeling</i> <a href="http://arxiv.org/abs/2011.04076v1">url</a></li>
-    <li><i>Analysis of Dimensional Influence of Convolutional Neural Networks for Histopathological Cancer Classification</i> <a href="http://arxiv.org/abs/2011.04057v1">url</a></li>
-    <li><i>Fourier-based and Rational Graph Filters for Spectral Processing</i> <a href="http://arxiv.org/abs/2011.04055v1">url</a></li>
-    <li><i>Predictive Analysis of Diabetic Retinopathy with Transfer Learning</i> <a href="http://arxiv.org/abs/2011.04052v1">url</a></li>
+    <li><i>Playing optical tweezers with deep reinforcement learning: in virtual, physical and augmented environments</i> <a href="http://arxiv.org/abs/2011.04424v1">url</a></li>
+    <li><i>Runtime Performances Benchmark for Knowledge Graph Embedding Methods</i> <a href="http://arxiv.org/abs/2011.04275v1">url</a></li>
+    <li><i>Deep Learning for Flight Demand and Delays Forecasting</i> <a href="http://arxiv.org/abs/2011.04476v1">url</a></li>
+    <li><i>Single and Multi-Agent Deep Reinforcement Learning for AI-Enabled Wireless Networks: A Tutorial</i> <a href="http://arxiv.org/abs/2011.03615v1">url</a></li>
+    <li><i>Efficient Robust Watermarking Based on Quaternion Singular Value Decomposition and Coefficient Pair Selection</i> <a href="http://arxiv.org/abs/2011.03631v1">url</a></li>
+    <li><i>A Reinforcement Learning Approach to the Orienteering Problem with Time Windows</i> <a href="http://arxiv.org/abs/2011.03647v1">url</a></li>
     <li><i>A Tree-structure Convolutional Neural Network for Temporal Features Exaction on Sensor-based Multi-resident Activity Recognition</i> <a href="http://arxiv.org/abs/2011.03042v1">url</a></li>
   </ol>
 </details>
