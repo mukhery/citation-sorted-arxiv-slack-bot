@@ -5,178 +5,36 @@
 #### Below are two lists of papers from arXiv's cs.CV, cs.LG and stat.ML, as sorted using this metric. The first being a sorted list of papers released today, and the second being a sorted list of papers released in the past 7 days. This repo also has the code to post these lists to your desired Slack channels. Suggestions or improvements are always welcome!
 
 ## Daily top 10
-1. *UNRANKED! - BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity* [url](http://arxiv.org/abs/2310.04420v1)
-2. *UNRANKED! - Functional Interpolation for Relative Positions Improves Long Context Transformers* [url](http://arxiv.org/abs/2310.04418v1)
-3. *UNRANKED! - Diffusion Random Feature Model* [url](http://arxiv.org/abs/2310.04417v1)
-4. *UNRANKED! - Alice Benchmarks: Connecting Real World Object Re-Identification with the Synthetic* [url](http://arxiv.org/abs/2310.04416v1)
-5. *UNRANKED! - Why Do We Need Weight Decay in Modern Deep Learning?* [url](http://arxiv.org/abs/2310.04415v1)
-6. *UNRANKED! - CIFAR-10-Warehouse: Broad and More Realistic Testbeds in Model Generalization Analysis* [url](http://arxiv.org/abs/2310.04414v1)
-7. *UNRANKED! - Beyond Uniform Sampling: Offline Reinforcement Learning with Imbalanced Datasets* [url](http://arxiv.org/abs/2310.04413v1)
-8. *UNRANKED! - FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning* [url](http://arxiv.org/abs/2310.04412v1)
-9. *UNRANKED! - Understanding, Predicting and Better Resolving Q-Value Divergence in Offline-RL* [url](http://arxiv.org/abs/2310.04411v1)
-10. *UNRANKED! - Policy-Gradient Training of Language Models for Ranking* [url](http://arxiv.org/abs/2310.04407v1)
+1. *UNRANKED! - FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing* [url](http://arxiv.org/abs/2310.05922v1)
 <details><summary>today's remaining papers</summary>
   <ol start=11>
-    <li><i>UNRANKED! - Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models</i> <a href="http://arxiv.org/abs/2310.04406v1">url</a></li>
-    <li><i>UNRANKED! - On the Embedding Collapse when Scaling up Recommendation Models</i> <a href="http://arxiv.org/abs/2310.04400v1">url</a></li>
-    <li><i>UNRANKED! - Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference</i> <a href="http://arxiv.org/abs/2310.04395v1">url</a></li>
-    <li><i>UNRANKED! - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference</i> <a href="http://arxiv.org/abs/2310.04378v1">url</a></li>
-    <li><i>UNRANKED! - Confronting Reward Model Overoptimization with Constrained RLHF</i> <a href="http://arxiv.org/abs/2310.04373v1">url</a></li>
-    <li><i>UNRANKED! - MBTFNet: Multi-Band Temporal-Frequency Neural Network For Singing Voice Enhancement</i> <a href="http://arxiv.org/abs/2310.04369v1">url</a></li>
-    <li><i>UNRANKED! - A Marketplace Price Anomaly Detection System at Scale</i> <a href="http://arxiv.org/abs/2310.04367v1">url</a></li>
-    <li><i>UNRANKED! - Amortizing intractable inference in large language models</i> <a href="http://arxiv.org/abs/2310.04363v1">url</a></li>
-    <li><i>UNRANKED! - Exploiting Transformer Activation Sparsity with Dynamic Inference</i> <a href="http://arxiv.org/abs/2310.04361v1">url</a></li>
-    <li><i>UNRANKED! - SwimXYZ: A large-scale dataset of synthetic swimming motions and videos</i> <a href="http://arxiv.org/abs/2310.04360v1">url</a></li>
-    <li><i>UNRANKED! - Asymptotically free sketched ridge ensembles: Risks, cross-validation, and tuning</i> <a href="http://arxiv.org/abs/2310.04357v1">url</a></li>
-    <li><i>UNRANKED! - Integrating Transformations in Probabilistic Circuits</i> <a href="http://arxiv.org/abs/2310.04354v1">url</a></li>
-    <li><i>UNRANKED! - A Language-Agent Approach to Formal Theorem-Proving</i> <a href="http://arxiv.org/abs/2310.04353v1">url</a></li>
-    <li><i>UNRANKED! - Fair Feature Importance Scores for Interpreting Tree-Based Methods and Surrogates</i> <a href="http://arxiv.org/abs/2310.04352v1">url</a></li>
-    <li><i>UNRANKED! - Learning to Grasp: from Somewhere to Anywhere</i> <a href="http://arxiv.org/abs/2310.04349v1">url</a></li>
-    <li><i>UNRANKED! - Neur2RO: Neural Two-Stage Robust Optimization</i> <a href="http://arxiv.org/abs/2310.04345v1">url</a></li>
-    <li><i>UNRANKED! - Functional Geometry Guided Protein Sequence and Backbone Structure Co-Design</i> <a href="http://arxiv.org/abs/2310.04343v1">url</a></li>
-    <li><i>UNRANKED! - Applying Reinforcement Learning to Option Pricing and Hedging</i> <a href="http://arxiv.org/abs/2310.04336v1">url</a></li>
-    <li><i>UNRANKED! - Saliency-Guided Hidden Associative Replay for Continual Learning</i> <a href="http://arxiv.org/abs/2310.04334v1">url</a></li>
-    <li><i>UNRANKED! - Robust Losses for Decision-Focused Learning</i> <a href="http://arxiv.org/abs/2310.04328v1">url</a></li>
-    <li><i>UNRANKED! - Program Synthesis with Best-First Bottom-Up Search</i> <a href="http://arxiv.org/abs/2310.04327v1">url</a></li>
-    <li><i>UNRANKED! - Adjustable Robust Reinforcement Learning for Online 3D Bin Packing</i> <a href="http://arxiv.org/abs/2310.04323v1">url</a></li>
-    <li><i>UNRANKED! - Latent Graph Inference with Limited Supervision</i> <a href="http://arxiv.org/abs/2310.04314v1">url</a></li>
-    <li><i>UNRANKED! - Distributed Deep Joint Source-Channel Coding with Decoder-Only Side Information</i> <a href="http://arxiv.org/abs/2310.04311v1">url</a></li>
-    <li><i>UNRANKED! - Towards A Robust Group-level Emotion Recognition via Uncertainty-Aware Learning</i> <a href="http://arxiv.org/abs/2310.04306v1">url</a></li>
-    <li><i>UNRANKED! - Convergent ADMM Plug and Play PET Image Reconstruction</i> <a href="http://arxiv.org/abs/2310.04299v1">url</a></li>
-    <li><i>UNRANKED! - Identifying Representations for Intervention Extrapolation</i> <a href="http://arxiv.org/abs/2310.04295v1">url</a></li>
-    <li><i>UNRANKED! - Graph learning in robotics: a survey</i> <a href="http://arxiv.org/abs/2310.04294v1">url</a></li>
-    <li><i>UNRANKED! - Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets</i> <a href="http://arxiv.org/abs/2310.04292v1">url</a></li>
-    <li><i>UNRANKED! - Assessing Robustness via Score-Based Adversarial Image Generation</i> <a href="http://arxiv.org/abs/2310.04285v1">url</a></li>
-    <li><i>UNRANKED! - On the Error-Propagation of Inexact Deflation for Principal Component Analysis</i> <a href="http://arxiv.org/abs/2310.04283v1">url</a></li>
-    <li><i>UNRANKED! - Compositional Servoing by Recombining Demonstrations</i> <a href="http://arxiv.org/abs/2310.04271v1">url</a></li>
-    <li><i>UNRANKED! - C(NN)FD -- deep learning predictions of tip clearance variations on multi-stage axial compressors aerodynamic performance</i> <a href="http://arxiv.org/abs/2310.04264v1">url</a></li>
-    <li><i>UNRANKED! - Collaborative Camouflaged Object Detection: A Large-Scale Dataset and Benchmark</i> <a href="http://arxiv.org/abs/2310.04253v1">url</a></li>
-    <li><i>UNRANKED! - Semantic segmentation of longitudinal thermal images for identification of hot and cool spots in urban areas</i> <a href="http://arxiv.org/abs/2310.04247v1">url</a></li>
-    <li><i>UNRANKED! - Comparing Auxiliary Tasks for Learning Representations for Reinforcement Learning</i> <a href="http://arxiv.org/abs/2310.04241v1">url</a></li>
-    <li><i>UNRANKED! - Bringing Quantum Algorithms to Automated Machine Learning: A Systematic Review of AutoML Frameworks Regarding Extensibility for QML Algorithms</i> <a href="http://arxiv.org/abs/2310.04238v1">url</a></li>
-    <li><i>UNRANKED! - A Fixed-Parameter Tractable Algorithm for Counting Markov Equivalence Classes with the same Skeleton</i> <a href="http://arxiv.org/abs/2310.04218v1">url</a></li>
-    <li><i>UNRANKED! - Cost-Effective Retraining of Machine Learning Models</i> <a href="http://arxiv.org/abs/2310.04216v1">url</a></li>
-    <li><i>UNRANKED! - Enhancing the Authenticity of Rendered Portraits with Identity-Consistent Transfer Learning</i> <a href="http://arxiv.org/abs/2310.04194v1">url</a></li>
-    <li><i>UNRANKED! - Non-Redundant Graph Neural Networks with Improved Expressiveness</i> <a href="http://arxiv.org/abs/2310.04190v1">url</a></li>
-    <li><i>UNRANKED! - Bridging the Gap between Human Motion and Action Semantics via Kinematic Phrases</i> <a href="http://arxiv.org/abs/2310.04189v1">url</a></li>
-    <li><i>UNRANKED! - Whole Slide Multiple Instance Learning for Predicting Axillary Lymph Node Metastasis</i> <a href="http://arxiv.org/abs/2310.04187v1">url</a></li>
-    <li><i>UNRANKED! - DiffPrompter: Differentiable Implicit Visual Prompts for Semantic-Segmentation in Adverse Conditions</i> <a href="http://arxiv.org/abs/2310.04181v1">url</a></li>
-    <li><i>UNRANKED! - Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution</i> <a href="http://arxiv.org/abs/2310.04180v1">url</a></li>
-    <li><i>UNRANKED! - Entropic Score metric: Decoupling Topology and Size in Training-free NAS</i> <a href="http://arxiv.org/abs/2310.04179v1">url</a></li>
-    <li><i>UNRANKED! - Introducing the Attribution Stability Indicator: a Measure for Time Series XAI Attributions</i> <a href="http://arxiv.org/abs/2310.04178v1">url</a></li>
-    <li><i>UNRANKED! - Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection</i> <a href="http://arxiv.org/abs/2310.04171v1">url</a></li>
-    <li><i>UNRANKED! - Amortized Network Intervention to Steer the Excitatory Point Processes</i> <a href="http://arxiv.org/abs/2310.04159v1">url</a></li>
-    <li><i>UNRANKED! - Improving Neural Radiance Field using Near-Surface Sampling with Point Cloud Generation</i> <a href="http://arxiv.org/abs/2310.04152v1">url</a></li>
-    <li><i>UNRANKED! - Self-Supervised Neuron Segmentation with Multi-Agent Reinforcement Learning</i> <a href="http://arxiv.org/abs/2310.04148v1">url</a></li>
-    <li><i>UNRANKED! - From Zero to Hero: Detecting Leaked Data through Synthetic Data Injection and Model Querying</i> <a href="http://arxiv.org/abs/2310.04145v1">url</a></li>
-    <li><i>UNRANKED! - Routing Arena: A Benchmark Suite for Neural Routing Solvers</i> <a href="http://arxiv.org/abs/2310.04140v1">url</a></li>
-    <li><i>UNRANKED! - TiC: Exploring Vision Transformer in Convolution</i> <a href="http://arxiv.org/abs/2310.04134v1">url</a></li>
-    <li><i>UNRANKED! - Reinforcement Learning with Fast and Forgetful Memory</i> <a href="http://arxiv.org/abs/2310.04128v1">url</a></li>
-    <li><i>UNRANKED! - VI-Diff: Unpaired Visible-Infrared Translation Diffusion Model for Single Modality Labeled Visible-Infrared Person Re-identification</i> <a href="http://arxiv.org/abs/2310.04122v1">url</a></li>
-    <li><i>UNRANKED! - Aorta Segmentation from 3D CT in MICCAI SEG.A. 2023 Challenge</i> <a href="http://arxiv.org/abs/2310.04114v1">url</a></li>
-    <li><i>UNRANKED! - Dense Random Texture Detection using Beta Distribution Statistics</i> <a href="http://arxiv.org/abs/2310.04111v1">url</a></li>
-    <li><i>UNRANKED! - Automated 3D Segmentation of Kidneys and Tumors in MICCAI KiTS 2023 Challenge</i> <a href="http://arxiv.org/abs/2310.04110v1">url</a></li>
-    <li><i>UNRANKED! - ClusVPR: Efficient Visual Place Recognition with Clustering-based Weighted Transformer</i> <a href="http://arxiv.org/abs/2310.04099v1">url</a></li>
-    <li><i>UNRANKED! - End-to-End Chess Recognition</i> <a href="http://arxiv.org/abs/2310.04086v1">url</a></li>
-    <li><i>UNRANKED! - A Deeply Supervised Semantic Segmentation Method Based on GAN</i> <a href="http://arxiv.org/abs/2310.04081v1">url</a></li>
-    <li><i>UNRANKED! - Beyond Myopia: Learning from Positive and Unlabeled Data through Holistic Predictive Trends</i> <a href="http://arxiv.org/abs/2310.04078v1">url</a></li>
-    <li><i>UNRANKED! - Automatic Aspect Extraction from Scientific Texts</i> <a href="http://arxiv.org/abs/2310.04074v1">url</a></li>
-    <li><i>UNRANKED! - How to Capture Higher-order Correlations? Generalizing Matrix Softmax Attention to Kronecker Computation</i> <a href="http://arxiv.org/abs/2310.04064v1">url</a></li>
-    <li><i>UNRANKED! - DEFT: A new distance-based feature set for keystroke dynamics</i> <a href="http://arxiv.org/abs/2310.04059v1">url</a></li>
-    <li><i>UNRANKED! - AUTOPARLLM: GNN-Guided Automatic Code Parallelization using Large Language Models</i> <a href="http://arxiv.org/abs/2310.04047v1">url</a></li>
-    <li><i>UNRANKED! - In the Blink of an Eye: Event-based Emotion Recognition</i> <a href="http://arxiv.org/abs/2310.04043v1">url</a></li>
-    <li><i>UNRANKED! - Observation-Guided Diffusion Probabilistic Models</i> <a href="http://arxiv.org/abs/2310.04041v1">url</a></li>
-    <li><i>UNRANKED! - Joint Projection Learning and Tensor Decomposition Based Incomplete Multi-view Clustering</i> <a href="http://arxiv.org/abs/2310.04038v1">url</a></li>
-    <li><i>UNRANKED! - Genetic prediction of quantitative traits: a machine learner's guide focused on height</i> <a href="http://arxiv.org/abs/2310.04028v1">url</a></li>
-    <li><i>UNRANKED! - PGraphDTA: Improving Drug Target Interaction Prediction using Protein Language Models and Contact Maps</i> <a href="http://arxiv.org/abs/2310.04017v1">url</a></li>
-    <li><i>UNRANKED! - Learning via Look-Alike Clustering: A Precise Analysis of Model Generalization</i> <a href="http://arxiv.org/abs/2310.04015v1">url</a></li>
-    <li><i>UNRANKED! - Excision and Recovery: Enhancing Surface Anomaly Detection with Attention-based Single Deterministic Masking</i> <a href="http://arxiv.org/abs/2310.04010v1">url</a></li>
-    <li><i>UNRANKED! - Accelerating optimization over the space of probability measures</i> <a href="http://arxiv.org/abs/2310.04006v1">url</a></li>
-    <li><i>UNRANKED! - The Role of Federated Learning in a Wireless World with Foundation Models</i> <a href="http://arxiv.org/abs/2310.04003v1">url</a></li>
-    <li><i>UNRANKED! - Runtime Monitoring DNN-Based Perception</i> <a href="http://arxiv.org/abs/2310.03999v1">url</a></li>
-    <li><i>UNRANKED! - Robust Multimodal Learning with Missing Modalities via Parameter-Efficient Adaptation</i> <a href="http://arxiv.org/abs/2310.03986v1">url</a></li>
-    <li><i>UNRANKED! - Dementia Assessment Using Mandarin Speech with an Attention-based Speech Recognition Encoder</i> <a href="http://arxiv.org/abs/2310.03985v1">url</a></li>
-    <li><i>UNRANKED! - AdaRec: Adaptive Sequential Recommendation for Reinforcing Long-term User Engagement</i> <a href="http://arxiv.org/abs/2310.03984v1">url</a></li>
-    <li><i>UNRANKED! - CUPre: Cross-domain Unsupervised Pre-training for Few-Shot Cell Segmentation</i> <a href="http://arxiv.org/abs/2310.03981v1">url</a></li>
-    <li><i>UNRANKED! - Perfect Alignment May be Poisonous to Graph Contrastive Learning</i> <a href="http://arxiv.org/abs/2310.03977v1">url</a></li>
-    <li><i>UNRANKED! - Ultimate limit on learning non-Markovian behavior: Fisher information rate and excess information</i> <a href="http://arxiv.org/abs/2310.03968v1">url</a></li>
-    <li><i>UNRANKED! - Sub-token ViT Embedding via Stochastic Resonance Transformers</i> <a href="http://arxiv.org/abs/2310.03967v1">url</a></li>
-    <li><i>UNRANKED! - A Learnable Counter-condition Analysis Framework for Functional Connectivity-based Neurological Disorder Diagnosis</i> <a href="http://arxiv.org/abs/2310.03964v1">url</a></li>
-    <li><i>UNRANKED! - Towards Increasing the Robustness of Predictive Steering-Control Autonomous Navigation Systems Against Dash Cam Image Angle Perturbations Due to Pothole Encounters</i> <a href="http://arxiv.org/abs/2310.03959v1">url</a></li>
-    <li><i>UNRANKED! - Understanding prompt engineering may not require rethinking generalization</i> <a href="http://arxiv.org/abs/2310.03957v1">url</a></li>
-    <li><i>UNRANKED! - Gradient Descent Provably Solves Nonlinear Tomographic Reconstruction</i> <a href="http://arxiv.org/abs/2310.03956v1">url</a></li>
-    <li><i>UNRANKED! - ILSH: The Imperial Light-Stage Head Dataset for Human Head View Synthesis</i> <a href="http://arxiv.org/abs/2310.03952v1">url</a></li>
-    <li><i>UNRANKED! - Improved prediction of ligand-protein binding affinities by meta-modeling</i> <a href="http://arxiv.org/abs/2310.03946v1">url</a></li>
-    <li><i>UNRANKED! - On Wasserstein distances for affine transformations of random vectors</i> <a href="http://arxiv.org/abs/2310.03945v1">url</a></li>
-    <li><i>UNRANKED! - LaTeX: Language Pattern-aware Triggering Event Detection for Adverse Experience during Pandemics</i> <a href="http://arxiv.org/abs/2310.03941v1">url</a></li>
-    <li><i>UNRANKED! - Hard View Selection for Contrastive Learning</i> <a href="http://arxiv.org/abs/2310.03940v1">url</a></li>
-    <li><i>UNRANKED! - Diffusion Models as Masked Audio-Video Learners</i> <a href="http://arxiv.org/abs/2310.03937v1">url</a></li>
-    <li><i>UNRANKED! - Improving classifier decision boundaries using nearest neighbors</i> <a href="http://arxiv.org/abs/2310.03927v1">url</a></li>
-    <li><i>UNRANKED! - Multitask Learning for Time Series Data\\with 2D Convolution</i> <a href="http://arxiv.org/abs/2310.03925v1">url</a></li>
-    <li><i>UNRANKED! - Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation</i> <a href="http://arxiv.org/abs/2310.03923v1">url</a></li>
-    <li><i>UNRANKED! - An Efficient Content-based Time Series Retrieval System</i> <a href="http://arxiv.org/abs/2310.03919v1">url</a></li>
-    <li><i>UNRANKED! - Toward a Foundation Model for Time Series Data</i> <a href="http://arxiv.org/abs/2310.03916v1">url</a></li>
-    <li><i>UNRANKED! - Leveraging Low-Rank and Sparse Recurrent Connectivity for Robust Closed-Loop Control</i> <a href="http://arxiv.org/abs/2310.03915v1">url</a></li>
-    <li><i>UNRANKED! - RTDK-BO: High Dimensional Bayesian Optimization with Reinforced Transformer Deep kernels</i> <a href="http://arxiv.org/abs/2310.03912v1">url</a></li>
-    <li><i>UNRANKED! - Coloring Deep CNN Layers with Activation Hue Loss</i> <a href="http://arxiv.org/abs/2310.03911v1">url</a></li>
-    <li><i>UNRANKED! - PyDCM: Custom Data Center Models with Reinforcement Learning for Sustainability</i> <a href="http://arxiv.org/abs/2310.03906v1">url</a></li>
-    <li><i>UNRANKED! - Provable benefits of annealing for estimating normalizing constants: Importance Sampling, Noise-Contrastive Estimation, and beyond</i> <a href="http://arxiv.org/abs/2310.03902v1">url</a></li>
-    <li><i>UNRANKED! - CrysFormer: Protein Structure Prediction via 3d Patterson Maps and Partial Structure Attention</i> <a href="http://arxiv.org/abs/2310.03899v1">url</a></li>
-    <li><i>UNRANKED! - Class-Incremental Learning Using Generative Experience Replay Based on Time-aware Regularization</i> <a href="http://arxiv.org/abs/2310.03898v1">url</a></li>
-    <li><i>UNRANKED! - TWICE Dataset: Digital Twin of Test Scenarios in a Controlled Environment</i> <a href="http://arxiv.org/abs/2310.03895v1">url</a></li>
-    <li><i>UNRANKED! - Characterizing the Features of Mitotic Figures Using a Conditional Diffusion Probabilistic Model</i> <a href="http://arxiv.org/abs/2310.03893v1">url</a></li>
-    <li><i>UNRANKED! - Accelerated Neural Network Training with Rooted Logistic Objectives</i> <a href="http://arxiv.org/abs/2310.03890v1">url</a></li>
-    <li><i>UNRANKED! - Information Geometry for the Working Information Theorist</i> <a href="http://arxiv.org/abs/2310.03884v1">url</a></li>
-    <li><i>UNRANKED! - Small batch deep reinforcement learning</i> <a href="http://arxiv.org/abs/2310.03882v1">url</a></li>
-    <li><i>UNRANKED! - Non Commutative Convolutional Signal Models in Neural Networks: Stability to Small Deformations</i> <a href="http://arxiv.org/abs/2310.03879v1">url</a></li>
-    <li><i>UNRANKED! - FNOSeg3D: Resolution-Robust 3D Image Segmentation with Fourier Neural Operator</i> <a href="http://arxiv.org/abs/2310.03872v1">url</a></li>
-    <li><i>UNRANKED! - Consistency Regularization Improves Placenta Segmentation in Fetal EPI MRI Time Series</i> <a href="http://arxiv.org/abs/2310.03870v1">url</a></li>
-    <li><i>UNRANKED! - Model Complexity of Program Phases</i> <a href="http://arxiv.org/abs/2310.03865v1">url</a></li>
-    <li><i>UNRANKED! - Variational Barycentric Coordinates</i> <a href="http://arxiv.org/abs/2310.03861v1">url</a></li>
-    <li><i>UNRANKED! - OpenIncrement: A Unified Framework for Open Set Recognition and Deep Class-Incremental Learning</i> <a href="http://arxiv.org/abs/2310.03848v1">url</a></li>
-    <li><i>UNRANKED! - Euclid: Identification of asteroid streaks in simulated images using deep learning</i> <a href="http://arxiv.org/abs/2310.03845v1">url</a></li>
-    <li><i>UNRANKED! - Less is More: On the Feature Redundancy of Pretrained Models When Transferring to Few-shot Tasks</i> <a href="http://arxiv.org/abs/2310.03843v1">url</a></li>
-    <li><i>UNRANKED! - Contextualized Structural Self-supervised Learning for Ontology Matching</i> <a href="http://arxiv.org/abs/2310.03840v1">url</a></li>
-    <li><i>UNRANKED! - Chameleon: Increasing Label-Only Membership Leakage with Adaptive Poisoning</i> <a href="http://arxiv.org/abs/2310.03838v1">url</a></li>
-    <li><i>UNRANKED! - Learning A Disentangling Representation For PU Learning</i> <a href="http://arxiv.org/abs/2310.03833v1">url</a></li>
-    <li><i>UNRANKED! - Integrating Audio-Visual Features for Multimodal Deepfake Detection</i> <a href="http://arxiv.org/abs/2310.03827v1">url</a></li>
-    <li><i>UNRANKED! - ECAvg: An Edge-Cloud Collaborative Learning Approach using Averaged Weights</i> <a href="http://arxiv.org/abs/2310.03823v1">url</a></li>
-    <li><i>UNRANKED! - WLST: Weak Labels Guided Self-training for Weakly-supervised Domain Adaptation on 3D Object Detection</i> <a href="http://arxiv.org/abs/2310.03821v1">url</a></li>
-    <li><i>UNRANKED! - Logical Languages Accepted by Transformer Encoders with Hard Attention</i> <a href="http://arxiv.org/abs/2310.03817v1">url</a></li>
-    <li><i>UNRANKED! - Fishnets: Information-Optimal, Scalable Aggregation for Sets and Graphs</i> <a href="http://arxiv.org/abs/2310.03812v1">url</a></li>
-    <li><i>UNRANKED! - Droplets of Good Representations: Grokking as a First Order Phase Transition in Two Layer Networks</i> <a href="http://arxiv.org/abs/2310.03789v1">url</a></li>
-    <li><i>UNRANKED! - HandMeThat: Human-Robot Communication in Physical and Social Environments</i> <a href="http://arxiv.org/abs/2310.03779v1">url</a></li>
-    <li><i>UNRANKED! - Lightweight Boosting Models for User Response Prediction Using Adversarial Validation</i> <a href="http://arxiv.org/abs/2310.03778v1">url</a></li>
-    <li><i>UNRANKED! - Functional data learning using convolutional neural networks</i> <a href="http://arxiv.org/abs/2310.03773v1">url</a></li>
-    <li><i>UNRANKED! - Investigating Alternative Feature Extraction Pipelines For Clinical Note Phenotyping</i> <a href="http://arxiv.org/abs/2310.03772v1">url</a></li>
-    <li><i>UNRANKED! - Progressive reduced order modeling: empowering data-driven modeling with selective knowledge transfer</i> <a href="http://arxiv.org/abs/2310.03770v1">url</a></li>
-    <li><i>UNRANKED! - Deep Reinforcement Learning Algorithms for Hybrid V2X Communication: A Benchmarking Study</i> <a href="http://arxiv.org/abs/2310.03767v1">url</a></li>
   </ol>
 </details>
 
 ## Weekly top 20
-1. *UNRANKED! - BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity* [url](http://arxiv.org/abs/2310.04420v1)
-2. *UNRANKED! - Functional Interpolation for Relative Positions Improves Long Context Transformers* [url](http://arxiv.org/abs/2310.04418v1)
-3. *UNRANKED! - Diffusion Random Feature Model* [url](http://arxiv.org/abs/2310.04417v1)
-4. *UNRANKED! - Alice Benchmarks: Connecting Real World Object Re-Identification with the Synthetic* [url](http://arxiv.org/abs/2310.04416v1)
-5. *UNRANKED! - Why Do We Need Weight Decay in Modern Deep Learning?* [url](http://arxiv.org/abs/2310.04415v1)
-6. *UNRANKED! - CIFAR-10-Warehouse: Broad and More Realistic Testbeds in Model Generalization Analysis* [url](http://arxiv.org/abs/2310.04414v1)
-7. *UNRANKED! - Beyond Uniform Sampling: Offline Reinforcement Learning with Imbalanced Datasets* [url](http://arxiv.org/abs/2310.04413v1)
-8. *UNRANKED! - FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning* [url](http://arxiv.org/abs/2310.04412v1)
-9. *UNRANKED! - Understanding, Predicting and Better Resolving Q-Value Divergence in Offline-RL* [url](http://arxiv.org/abs/2310.04411v1)
-10. *UNRANKED! - Policy-Gradient Training of Language Models for Ranking* [url](http://arxiv.org/abs/2310.04407v1)
-11. *UNRANKED! - Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models* [url](http://arxiv.org/abs/2310.04406v1)
-12. *UNRANKED! - On the Embedding Collapse when Scaling up Recommendation Models* [url](http://arxiv.org/abs/2310.04400v1)
-13. *UNRANKED! - Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference* [url](http://arxiv.org/abs/2310.04395v1)
-14. *UNRANKED! - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference* [url](http://arxiv.org/abs/2310.04378v1)
-15. *UNRANKED! - Confronting Reward Model Overoptimization with Constrained RLHF* [url](http://arxiv.org/abs/2310.04373v1)
-16. *UNRANKED! - MBTFNet: Multi-Band Temporal-Frequency Neural Network For Singing Voice Enhancement* [url](http://arxiv.org/abs/2310.04369v1)
-17. *UNRANKED! - A Marketplace Price Anomaly Detection System at Scale* [url](http://arxiv.org/abs/2310.04367v1)
-18. *UNRANKED! - Amortizing intractable inference in large language models* [url](http://arxiv.org/abs/2310.04363v1)
-19. *UNRANKED! - Exploiting Transformer Activation Sparsity with Dynamic Inference* [url](http://arxiv.org/abs/2310.04361v1)
-20. *UNRANKED! - SwimXYZ: A large-scale dataset of synthetic swimming motions and videos* [url](http://arxiv.org/abs/2310.04360v1)
+1. *UNRANKED! - FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing* [url](http://arxiv.org/abs/2310.05922v1)
+2. *UNRANKED! - BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity* [url](http://arxiv.org/abs/2310.04420v1)
+3. *UNRANKED! - Functional Interpolation for Relative Positions Improves Long Context Transformers* [url](http://arxiv.org/abs/2310.04418v1)
+4. *UNRANKED! - Diffusion Random Feature Model* [url](http://arxiv.org/abs/2310.04417v1)
+5. *UNRANKED! - Alice Benchmarks: Connecting Real World Object Re-Identification with the Synthetic* [url](http://arxiv.org/abs/2310.04416v1)
+6. *UNRANKED! - Why Do We Need Weight Decay in Modern Deep Learning?* [url](http://arxiv.org/abs/2310.04415v1)
+7. *UNRANKED! - CIFAR-10-Warehouse: Broad and More Realistic Testbeds in Model Generalization Analysis* [url](http://arxiv.org/abs/2310.04414v1)
+8. *UNRANKED! - Beyond Uniform Sampling: Offline Reinforcement Learning with Imbalanced Datasets* [url](http://arxiv.org/abs/2310.04413v1)
+9. *UNRANKED! - FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning* [url](http://arxiv.org/abs/2310.04412v1)
+10. *UNRANKED! - Understanding, Predicting and Better Resolving Q-Value Divergence in Offline-RL* [url](http://arxiv.org/abs/2310.04411v1)
+11. *UNRANKED! - Policy-Gradient Training of Language Models for Ranking* [url](http://arxiv.org/abs/2310.04407v1)
+12. *UNRANKED! - Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models* [url](http://arxiv.org/abs/2310.04406v1)
+13. *UNRANKED! - On the Embedding Collapse when Scaling up Recommendation Models* [url](http://arxiv.org/abs/2310.04400v1)
+14. *UNRANKED! - Leveraging Self-Consistency for Data-Efficient Amortized Bayesian Inference* [url](http://arxiv.org/abs/2310.04395v1)
+15. *UNRANKED! - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference* [url](http://arxiv.org/abs/2310.04378v1)
+16. *UNRANKED! - Confronting Reward Model Overoptimization with Constrained RLHF* [url](http://arxiv.org/abs/2310.04373v1)
+17. *UNRANKED! - MBTFNet: Multi-Band Temporal-Frequency Neural Network For Singing Voice Enhancement* [url](http://arxiv.org/abs/2310.04369v1)
+18. *UNRANKED! - A Marketplace Price Anomaly Detection System at Scale* [url](http://arxiv.org/abs/2310.04367v1)
+19. *UNRANKED! - Amortizing intractable inference in large language models* [url](http://arxiv.org/abs/2310.04363v1)
+20. *UNRANKED! - Exploiting Transformer Activation Sparsity with Dynamic Inference* [url](http://arxiv.org/abs/2310.04361v1)
 <details><summary>this week's remaining papers</summary>
   <ol start=21>
+    <li><i>UNRANKED! - SwimXYZ: A large-scale dataset of synthetic swimming motions and videos</i> <a href="http://arxiv.org/abs/2310.04360v1">url</a></li>
     <li><i>UNRANKED! - Asymptotically free sketched ridge ensembles: Risks, cross-validation, and tuning</i> <a href="http://arxiv.org/abs/2310.04357v1">url</a></li>
     <li><i>UNRANKED! - Integrating Transformations in Probabilistic Circuits</i> <a href="http://arxiv.org/abs/2310.04354v1">url</a></li>
     <li><i>UNRANKED! - A Language-Agent Approach to Formal Theorem-Proving</i> <a href="http://arxiv.org/abs/2310.04353v1">url</a></li>
